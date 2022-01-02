@@ -1,0 +1,31 @@
+Jianguo (12/12/17): sets formulas double checked: 
+atoms 
+MN_SR_MGM_BE9 
+MN_SR_TM_BE17 
+MN_MR_MGM_BE4 
+MN_MR_MGN_BE17 
+MN_MR_TM_BE13 
+MN_MR_TMD_BE2 
+MN_IP23 
+MN_3dAEE7 
+MN_pEE5 
+MN_4pIsoE4 
+MN_2pIsoE4 
+MN_IsoL6_11 
+MN_EA13_03 
+MN_PA8 
+MN_TC13 
+MN_HTBH38-08 
+MN_NHTBH38-08 
+MN_HC7_11 
+MN_DC9_12
+
+Incomplete:
+BE107: 
+
+Not used: (vdw/dispersion or heavy TMs)
+MN_NCCE30, MN_NGDWI21, MN_4dAEE5
+
+diatomics and polyatomics: The list_of_molecules.B3LYP.KP14 are from old runs.  May need double check.
+
+fractionalspin:  .current has a lot of gdm options.  May need change.

@@ -1,0 +1,49 @@
+NH3_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+HF_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+H2O_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+HCONH2_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+HCOOH_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+C2H4_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+F2_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+C2H2_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+ClF_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+HCN_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+Cl2_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+H2S_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+HCl_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+CH3Cl_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+CH3SH_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+CH4_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+C6H6_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+CO2_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+C5H5N_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+NH3_2_c0_m1 1 1 1 2 NH3_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+HF_2_c0_m1 1 1 1 2 HF_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+H2O_2_c0_m1 1 1 1 2 H2O_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+NH3-H2O_c0_m1 2 1 1 1 NH3_c0_m1 1 H2O_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+HCONH2_2_c0_m1 1 1 1 2 HCONH2_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+HCOOH_2_c0_m1 1 1 1 2 HCOOH_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+C2H4-F2_c0_m1 2 1 1 1 C2H4_c0_m1 1 F2_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+NH3-F2_c0_m1 2 1 1 1 NH3_c0_m1 1 F2_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+C2H2-ClF_c0_m1 2 1 1 1 C2H2_c0_m1 1 ClF_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+HCN-ClF_c0_m1 2 1 1 1 HCN_c0_m1 1 ClF_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+NH3-Cl2_c0_m1 2 1 1 1 NH3_c0_m1 1 Cl2_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+H2O-ClF_c0_m1 2 1 1 1 H2O_c0_m1 1 ClF_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+NH3-ClF_c0_m1 2 1 1 1 NH3_c0_m1 1 ClF_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+H2S_2_c0_m1 1 1 1 2 H2S_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+HCl_2_c0_m1 1 1 1 2 HCl_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+HCl-H2S_c0_m1 2 1 1 1 HCl_c0_m1 1 H2S_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+CH3Cl-HCl_c0_m1 2 1 1 1 CH3Cl_c0_m1 1 HCl_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+HCN-CH3SH_c0_m1 2 1 1 1 HCN_c0_m1 1 CH3SH_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+CH3SH-HCl_c0_m1 2 1 1 1 CH3SH_c0_m1 1 HCl_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+CH4-Ne_c0_m1 2 1 1 1 CH4_c0_m1 1 Ne xcfunc1 B3LYP xcfunc2 B3LYP
+C6H6-Ne_c0_m1 2 1 1 1 C6H6_c0_m1 1 Ne xcfunc1 B3LYP xcfunc2 B3LYP
+CH4_2_c0_m1 1 1 1 2 CH4_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+CO2-Ar_c0_m1 2 1 1 1 CO2_c0_m1 1 Ar xcfunc1 B3LYP xcfunc2 B3LYP
+C2H2_2_c0_m1 1 1 1 2 C2H2_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+C2H4_2_c0_m1 1 1 1 2 C2H4_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+C6H6_2_c0_m1 1 1 1 2 C6H6_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+C6H6_2_c0_m1_T 1 1 1 2 C6H6_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+C6H6_2_c0_m1_P 1 1 1 2 C6H6_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+CO2_2_c0_m1 1 1 1 2 CO2_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+C5H5N_2_c0_m1 1 1 1 2 C5H5N_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP

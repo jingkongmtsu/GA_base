@@ -1,0 +1,12 @@
+download the geometry and multiplicity/charge files.
+'formulas.RSE43': copy-paste ref values from website, formulas only, ignoring the heading.
+All GMTKN55 sets start with GM55
+mkdir GM55-RSE43
+edit parameters (first few lines) in mk_ins.sh, mk_ref
+run mk_ins.sh to generate .in and lom.
+run mk_ref to generate ref_vals in kcal/mol. indexed by reaction numbers.  
+copy ref_vals to the in dir.
+copy 'formulas.*' to the set dir as 'formulas'.
+
+NOTE: kcal/mol is converted to a.u. in ref_vals, which is the one used for error
+calculations, not the ones in 'formulas'.

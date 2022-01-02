@@ -1,0 +1,34 @@
+%global_infor
+CPU_THREADS_NUMBER   4
+main spjobs
+%end
+
+%basis
+G3LARGEXP
+#aug-cc-pcvqz-dale
+%end
+
+
+%xcfunc
+name  HF
+%end
+
+%scf
+max_scf_cycles  300
+#scf_guess core
+%end
+
+%gints
+gints4d_threshold  1.0E-12
+%end
+
+%xcints
+grid_points  baker
+grid_quality fine
+threshold   1.0e-12
+%end
+
+%scfintscontroller
+integral_controller_option  NO_CONTROLLER
+%end
+

@@ -1,0 +1,26 @@
+E1_c0_m1_pi1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+E3_c0_m1_pi3 0 xcfunc1 B3LYP xcfunc2 B3LYP
+E5_c0_m1_pi5 0 xcfunc1 B3LYP xcfunc2 B3LYP
+P-2_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+P-4_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+P-6_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+P-8_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+P-10_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+SB-2_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+SB-4_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+SB-6_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+SB-8_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+SB-10_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+E2_c0_m1_pi2 1 1 1 1 E1_c0_m1_pi1 xcfunc1 B3LYP xcfunc2 B3LYP
+E4_c0_m1_pi4 1 1 1 1 E3_c0_m1_pi3 xcfunc1 B3LYP xcfunc2 B3LYP
+*E6_c0_m1_pi6 1 1 1 1 E5_c0_m1_pi5 xcfunc1 B3LYP xcfunc2 B3LYP
+P-2H_c1_m1 1 1 1 1 P-2_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+P-4H_c1_m1 1 1 1 1 P-4_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+P-6H_c1_m1 1 1 1 1 P-6_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+P-8H_c1_m1 1 1 1 1 P-8_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+P-10H_c1_m1 1 1 1 1 P-10_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+SB-2H_c1_m1 1 1 1 1 SB-2_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+SB-4H_c1_m1 1 1 1 1 SB-4_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+SB-6H_c1_m1 1 1 1 1 SB-6_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+SB-8H_c1_m1 1 1 1 1 SB-8_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+SB-10H_c1_m1 1 1 1 1 SB-10_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP

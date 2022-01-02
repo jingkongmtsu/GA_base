@@ -1,0 +1,27 @@
+H2 3 1 2 H
+N2 3 1 2 N
+F2 3 1 2 F
+O2 3 1 2 O
+S2 3 1 2 S
+P2 3 1 2 P
+Cl2 3 1 2 Cl
+HF 5 1 1 H 1 F
+CO 5 1 1 C 1 O
+NO 5 1 1 N 1 O  
+PN 5 1 1 P 1 N  
+CN 5 1 1 C 1 N  
+NH 5 1 1 N 1 H  
+CS 5 1 1 C 1 S
+CH 5 1 1 C 1 H  
+OH 5 1 1 O 1 H
+HCl 5 1 1 H 1 Cl
+SiO 5 1 1 Si 1 O
+LiF 5 1 1 Li 1 F
+MgS 5 1 1 Mg 1 S
+ClF 5 1 1 Cl 1 F
+*NaCl 5 1 1 Na 1 Cl
+ClO 5 1 1 Cl 1 O
+Li2 3 1 2 Li 
+LiH 5 1 1 Li 1 H 
+SO 5 1 1 S 1 O
+Si2 3 1 2 Si

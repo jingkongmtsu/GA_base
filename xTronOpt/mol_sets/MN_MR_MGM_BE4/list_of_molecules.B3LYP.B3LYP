@@ -1,0 +1,7 @@
+O_c-1_m2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+*Li_c-1_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+K_c-1_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+CaO_c0_m1 2 1 1 1 Ca 1 O xcfunc1 B3LYP xcfunc2 B3LYP
+LiO_c-1_m1 2 1 1 1 Li 1 O_c-1_m2 xcfunc1 B3LYP xcfunc2 B3LYP
+KO_c-1_m1 2 1 1 1 K 1 O_c-1_m2 xcfunc1 B3LYP xcfunc2 B3LYP
+MgS_c0_m1 2 1 1 1 Mg 1 S xcfunc1 B3LYP xcfunc2 B3LYP

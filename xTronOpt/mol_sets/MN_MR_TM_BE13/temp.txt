@@ -1,0 +1,16 @@
+CH2_c0_m1.in
+CO_c0_m1.in
+CoCO_4H_c0_m1.in
+CrCl_c0_m6.in
+CrOF_c0_m4.in
+CuCl_c0_m1.in
+CuH_c0_m1.in
+FeBr2_2_c0_m9.in
+FeCO_5_c0_m1.in
+Ni_c1_m2.in
+NiCH2_c1_m2.in
+NiCl_c0_m2.in
+TiCl_c0_m4.in
+VF5_c0_m1.in
+VO_c0_m4.in
+VS_c0_m4.in

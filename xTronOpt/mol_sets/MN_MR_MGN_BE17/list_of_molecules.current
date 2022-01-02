@@ -1,0 +1,19 @@
+S2_c0_m3 0  
+Cl2_c0_m1 0  
+NF3_c0_m1 2 1 1 1 N 3 F  
+CO2_c0_m1 2 1 1 1 C 2 O  
+SiO_c0_m1 2 1 1 1 Si 1 O  
+SO2_c0_m1 2 1 1 1 S 2 O  
+CO_c0_m1 2 1 1 1 C 1 O  
+SO_c0_m3 2 1 1 1 S 1 O  
+ClO_c0_m2 2 1 1 1 O 1 Cl  
+F2_c0_m1 1 1 1 2 F  
+N2_c0_m1 1 1 1 2 N  
+O2_c0_m3 1 1 1 2 O  
+NO_c0_m2 2 1 1 1 N 1 O  
+CN_c0_m2 2 1 1 1 C 1 N  
+B2_c0_m3 1 1 1 2 B  
+O3_c0_m1 2 1 1 1 O 1 O2_c0_m3  
+C2_c0_m1 1 1 1 2 C  
+S4_c0_m1 1 1 1 2 S2_c0_m3  
+Cl2O_c0_m1 2 1 1 1 O 1 Cl2_c0_m1  

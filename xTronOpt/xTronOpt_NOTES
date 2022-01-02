@@ -1,0 +1,73 @@
+Matthew Wang
+
+#### Error code information ####
+In the _dev files, you will now see an error code. The flags are as follows:
+ 1. abs(lowest_e - last_e) > consistency_thres  ->  1
+ 2. abs(lowest_e - cycle0_e) < difference_thres  ->  10
+ 3. lowest_cycle == 0  -> 100
+
+#### FOR NEW xTron OPTIMIZATION ####
+MORE .EXAMPLE FILES HAVE BEEN CREATED. Specifically in the mol_sets, the list_of_atoms and list_of_molecules
+ files are now .example files that need to be copied over to list_of_atoms and list_of_molecules respectively.
+ This is to avoid conflicts in git.
+
+ 1. Need to create a pop.txt, or file equivalent, for nonlinear parameter sets.
+ (Need to create a linear_params.txt file for linear parameter sets. (HAS TO BE CALLED linear_params.txt))
+    NOTE: IF YOU PLAN TO DO ANY LINEAR LEAST SQUARES FITTING THEN YOU MUST HAVE A LINEAR_PARAMS.TXT FILE FOR
+     ERROR CALCULATION AND SORTING TO WORK. USE THE EXAMPLE(DEFAULT) 
+  It is expected that there are 2 nonlinear parameters and 3 linear parameters.  Step 2 is optional. 
+  If there is no linear_params.txt file then it uses the defaults in xcfunc.conf.  
+  If there is 1 set of parameters, it uses that set for all nonlinear parameters. Otherwise, there must
+   be a 1 to 1 set for nonlinear and linear.
+ 2. An xTronOpt_config.txt MUST BE CREATED. Please use the example as a template. This specifies where
+    the xTron source code is located so settings and executable can be grabbed for job_setup.sh to be used.
+
+Some changes and additions:
+- Reworked some things to allow G3_LARGE.BAS to be used externally
+   from xTron input files.
+- Edited least squares scripts for, hopefully, more readability.
+- Added a config script to the upper level for ease of use with git.
+
+Still needs work:
+- Need to rework the resubmittion script or code some sort of eden equivalent
+   for ease of resubmitting the job or rerunning certain molecules. Also run
+   multiple molecules at once.
+
+DIRECTORY STRUCTURE OF mol_sets
+- mol_sets is the directory which contains atoms and molecules for investigation.
+- At the top level we have template1.txt and template2.txt, necessary for the
+   construction of the input files for the job.
+- sets_list.txt are the names of all the sets of molecules. For now we have
+   diatomics and polyatomics. Puttng an asterix in front of the molecule set
+   in sets_list.txt will ignore that set and will run none of the molecules from it.
+- The first directory atoms, contains the list_of_atoms files and corresponding 
+   pieces of input files. Putting an asterix in front of an atom will ignore it.
+- The directories for diatomics and polyatomics are similar. They contain the pieces
+   required for the final input file as well as a list_of_molecules. Same result for
+   an asterix in front of the molecule applies here. It should also contain 
+   exp_{set_name} which should contain the experimental/exact values for the
+   disassociation energy of the molecules.
+- mem_infor_files are necessary files for running xTron.
+
+DIRECTORY STRUCTURE OF IO_files
+- IO_files is where the output files for each generation will go. It will have
+   gen1, gen2, .. etc. Removing or renaming the whole folder will free up the # value 
+   when rerunning run_pop.sh.
+- Within the gen# folder, there will be a population.txt file which will have the 
+   parameter sets investigated in this generation. It will also have an atoms directory
+   and any sets used. job_files is where any files related to the whole job will go.
+   scripts_configs is the directory where any necessary scripts and config files will
+   go specific to the parameter set.
+- After running the error calculation, you will see {set_name}_dev which will have the deviation
+   for all the molecules of the set. gen_errors.txt which will contain the errors associated with
+   all the parameter sets.
+
+Other things of note when working with xTron.
+- All parameters should be specified in the xcfunc.conf file.
+- There are 3 necessary environmental variables that need to be set:
+   - XTRON_SETTING_FILE - where the xcfunc.conf is (requires that name specifically so each
+       parameter set must have a unique XTRON_SETTING_FILE)
+   - XTRON_BASIS_SET_HOME - where the basis set file is. Basis set file must be in all caps and
+       is specified within the pieces of the input file in mol_sets. Ex. G3LARGE.BAS
+   - XTRON_SCRATCH_DIR - where a scratch directory is to hold temporary files. Should be cleaned
+       periodically.

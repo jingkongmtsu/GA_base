@@ -1,0 +1,14 @@
+%molecule
+0 1
+C
+C 1 RCC
+H 2 RCH 1 TH
+H 2 RCH 1 TH 3 180.0
+H 1 RCH 2 TH 3 0.0
+H 1 RCH 2 TH 3 180.0
+
+RCC=1.3342
+RCH=1.0823
+TH=121.44
+%end
+ 

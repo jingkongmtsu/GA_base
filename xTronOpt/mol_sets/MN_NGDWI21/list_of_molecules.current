@@ -1,0 +1,21 @@
+He2_c0_m1 1 1 1 2 He
+Ne2_c0_m1 1 1 1 2 Ne
+Ar2_c0_m1 1 1 1 2 Ar
+Kr2_c0_m1 1 1 1 2 Kr
+HeNe_c0_m1 2 1 1 1 He 1 Ne
+HeAr_c0_m1 2 1 1 1 He 1 Ar
+NeAr_c0_m1 2 1 1 1 Ne 1 Ar
+HeHe_L_c0_m1 1 1 1 2 He
+HeHe_R_c0_m1 1 1 1 2 He
+ArAr_L_c0_m1 1 1 1 2 Ar
+ArAr_R_c0_m1 1 1 1 2 Ar
+NeNe_L_c0_m1 1 1 1 2 Ne
+NeNe_R_c0_m1 1 1 1 2 Ne
+KrKr_L_c0_m1 1 1 1 2 Kr
+KrKr_R_c0_m1 1 1 1 2 Kr
+HeNe_L_c0_m1 2 1 1 1 He 1 Ne
+HeNe_R_c0_m1 2 1 1 1 He 1 Ne
+HeAr_L_c0_m1 2 1 1 1 He 1 Ar
+HeAr_R_c0_m1 2 1 1 1 He 1 Ar
+NeAr_L_c0_m1 2 1 1 1 Ne 1 Ar
+NeAr_R_c0_m1 2 1 1 1 Ne 1 Ar

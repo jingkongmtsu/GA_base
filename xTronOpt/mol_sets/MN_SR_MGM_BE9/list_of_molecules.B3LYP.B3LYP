@@ -1,0 +1,10 @@
+OH_c0_m2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+AlCl3_c0_m1 2 1 1 1 Al 3 Cl xcfunc1 B3LYP xcfunc2 B3LYP
+AlF3_c0_m1 2 1 1 1 Al 3 F xcfunc1 B3LYP xcfunc2 B3LYP
+KOH_c0_m1 2 1 1 1 K 1 OH_c0_m2 xcfunc1 B3LYP xcfunc2 B3LYP
+NaO_c0_m2 2 1 1 1 Na 1 O xcfunc1 B3LYP xcfunc2 B3LYP
+LiO_c0_m2 2 1 1 1 Li 1 O xcfunc1 B3LYP xcfunc2 B3LYP
+LiCl_c0_m1 2 1 1 1 Li 1 Cl xcfunc1 B3LYP xcfunc2 B3LYP
+AlCl_c0_m1 2 1 1 1 Al 1 Cl xcfunc1 B3LYP xcfunc2 B3LYP
+ZnSe_c0_m1 2 1 1 1 Zn 1 Se xcfunc1 B3LYP xcfunc2 B3LYP
+ZnCl_c0_m2 2 1 1 1 Zn 1 Cl xcfunc1 B3LYP xcfunc2 B3LYP

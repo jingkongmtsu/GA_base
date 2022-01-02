@@ -1,0 +1,193 @@
+MnOH_c0_m7 3 1 1 1 O 1 H 1 Mn 
+MnCO5Br_c0_m1 4 1 1 5 C 1 Br 5 O 1 Mn 
+CrO2H2_c0_m5 3 1 1 1 Cr 2 H 2 O 
+FeCO_c0_m5 3 1 1 1 C 1 Fe 1 O 
+VF5_c0_m1 2 1 1 1 V 5 F 
+TiF4_c0_m1 2 1 1 1 Ti 4 F 
+MnSe_c0_m6 2 1 1 1 Se 1 Mn 
+MnCl2_c0_m6 2 1 1 2 Cl 1 Mn 
+ScC5H53_c0_m1 3 1 1 15 C 1 Sc 15 H 
+Mn2Br4_c0_m11 2 1 1 4 Br 2 Mn 
+TiN_c0_m2 2 1 1 1 Ti 1 N 
+ZnCH3_c0_m2 3 1 1 1 C 3 H 1 Zn 
+VS_c0_m4 2 1 1 1 V 1 S 
+VCl2_c0_m4 2 1 1 2 Cl 1 V 
+MnC5H5CO3_c0_m1 4 1 1 8 C 3 O 5 H 1 Mn 
+Cu3Br3_c0_m1 2 1 1 3 Cu 3 Br 
+FeCl2_c0_m5 2 1 1 2 Cl 1 Fe 
+NiPF34_c0_m1 3 1 1 12 F 1 Ni 4 P 
+CoCO4_c0_m2 3 1 1 1 Co 4 O 4 C 
+TiCl2Br2_c0_m1 3 1 1 2 Cl 1 Ti 2 Br 
+CoCO3HPF3_c0_m1 6 1 1 3 O 1 P 3 C 1 Co 3 F 1 H 
+CrF_c0_m6 2 1 1 1 Cr 1 F 
+CoGe_c0_m2 2 1 1 1 Co 1 Ge 
+FeOH2_c0_m5 3 1 1 2 O 1 Fe 2 H 
+ZnCH2CH32_c0_m1 3 1 1 4 C 10 H 1 Zn 
+NiOH2_c0_m3 3 1 1 2 O 1 Ni 2 H 
+NiBr_c0_m2 2 1 1 1 Br 1 Ni 
+CuF2_c0_m2 2 1 1 1 Cu 2 F 
+VCl4_c0_m2 2 1 1 4 Cl 1 V 
+CrGe_c0_m5 2 1 1 1 Cr 1 Ge 
+VC4_c0_m4 2 1 1 4 C 1 V 
+CrH_c0_m6 2 1 1 1 Cr 1 H 
+CrO3_c0_m1 2 1 1 1 Cr 3 O 
+ScO_c0_m2 2 1 1 1 O 1 Sc 
+CoF2_c0_m4 2 1 1 1 Co 2 F 
+CrClFO2_c0_m1 4 1 1 1 Cl 1 Cr 1 F 2 O 
+ScF_c0_m1 2 1 1 1 F 1 Sc 
+NiS_c0_m3 2 1 1 1 Ni 1 S 
+TiCl2_c0_m3 2 1 1 1 Ti 2 Cl 
+ZnS_c0_m1 2 1 1 1 S 1 Zn 
+CoCl2_c0_m4 2 1 1 2 Cl 1 Co 
+CoCl3_c0_m5 2 1 1 3 Cl 1 Co 
+TiOF_c0_m2 3 1 1 1 Ti 1 O 1 F 
+TiO_c0_m3 2 1 1 1 Ti 1 O 
+ScCl3_c0_m1 2 1 1 3 Cl 1 Sc 
+MnF3_c0_m5 2 1 1 3 F 1 Mn 
+CoH_c0_m3 2 1 1 1 Co 1 H 
+NiBr2_c0_m3 2 1 1 2 Br 1 Ni 
+NiCO3_c0_m1 3 1 1 3 C 1 Ni 3 O 
+TiC4_c0_m3 2 1 1 1 Ti 4 C 
+MnF2_c0_m6 2 1 1 2 F 1 Mn 
+MnH_c0_m7 2 1 1 1 H 1 Mn 
+MnCl_c0_m7 2 1 1 1 Cl 1 Mn 
+TiBr4_c0_m1 2 1 1 1 Ti 4 Br 
+VOOH3_c0_m1 3 1 1 4 O 1 V 3 H 
+CrCl4_c0_m1 2 1 1 4 Cl 1 Cr 
+VBr4_c0_m2 2 1 1 1 V 4 Br 
+CrS_c0_m5 2 1 1 1 Cr 1 S 
+Zn2_c0_m1 1 1 1 2 Zn 
+CuBr_c0_m1 2 1 1 1 Cu 1 Br 
+ScF2_c0_m2 2 1 1 2 F 1 Sc 
+NiCu_c0_m2 2 1 1 1 Cu 1 Ni 
+Ti2_c0_m3 1 1 1 2 Ti 
+CrOCl2_c0_m1 3 1 1 2 Cl 1 Cr 1 O 
+MnO_c0_m6 2 1 1 1 O 1 Mn 
+FeH_c0_m4 2 1 1 1 Fe 1 H 
+VOCl3_c0_m1 3 1 1 3 Cl 1 O 1 V 
+NiF_c0_m2 2 1 1 1 F 1 Ni 
+FeCl_c0_m6 2 1 1 1 Cl 1 Fe 
+NiCO4_c0_m1 3 1 1 4 C 1 Ni 4 O 
+V4O10_c0_m1 2 1 1 10 O 4 V 
+TiC2_c0_m3 2 1 1 1 Ti 2 C 
+CoO_c0_m4 2 1 1 1 Co 1 O 
+TiCl4_c0_m1 2 1 1 1 Ti 4 Cl 
+Ni2_c0_m3 1 1 1 2 Ni 
+ZnSe_c0_m1 2 1 1 1 Se 1 Zn 
+CuSe_c0_m2 2 1 1 1 Cu 1 Se 
+MnS_c0_m6 2 1 1 1 S 1 Mn 
+ZnBr_c0_m2 2 1 1 1 Br 1 Zn 
+CrO2F2_c0_m1 3 1 1 1 Cr 2 F 2 O 
+TiBr_c0_m4 2 1 1 1 Ti 1 Br 
+VN_c0_m3 2 1 1 1 V 1 N 
+CrO2Cl2_c0_m1 3 1 1 2 Cl 1 Cr 2 O 
+FeC5H52_c0_m1 3 1 1 10 C 1 Fe 10 H 
+CoCu_c0_m3 2 1 1 1 Co 1 Cu 
+FeCO2_c0_m3 3 1 1 2 C 1 Fe 2 O 
+Sc2Cl6_c0_m1 2 1 1 6 Cl 2 Sc 
+FeF_c0_m6 2 1 1 1 Fe 1 F 
+CrC2_c0_m5 2 1 1 1 Cr 2 C 
+CuF_c0_m1 2 1 1 1 Cu 1 F 
+TiF_c0_m4 2 1 1 1 Ti 1 F 
+NiCO2_c0_m1 3 1 1 2 C 1 Ni 2 O 
+Cr3O9_c0_m1 2 1 1 3 Cr 9 O 
+ZnF2_c0_m1 2 1 1 2 F 1 Zn 
+CrN_c0_m4 2 1 1 1 Cr 1 N 
+FeBr_c0_m6 2 1 1 1 Fe 1 Br 
+MnBr2_c0_m6 2 1 1 2 Br 1 Mn 
+Fe2Br4_c0_m9 2 1 1 2 Fe 4 Br 
+CuS_c0_m2 2 1 1 1 Cu 1 S 
+ZnCH2CH2CH32_c0_m1 3 1 1 6 C 14 H 1 Zn 
+VCl3_c0_m3 2 1 1 3 Cl 1 V 
+VO2_c0_m2 2 1 1 2 O 1 V 
+FeBr3_c0_m6 2 1 1 1 Fe 3 Br 
+CrCl3_c0_m4 2 1 1 3 Cl 1 Cr 
+TiBr3_c0_m2 2 1 1 1 Ti 3 Br 
+CrCO4_c0_m1 3 1 1 1 Cr 4 O 4 C 
+CrBr4_c0_m1 2 1 1 1 Cr 4 Br 
+TiSe_c0_m3 2 1 1 1 Ti 1 Se 
+CrF2_c0_m5 2 1 1 1 Cr 2 F 
+CrO2Cl_c0_m2 3 1 1 1 Cl 1 Cr 2 O 
+FeCO5_c0_m1 3 1 1 5 C 1 Fe 5 O 
+CrCO6_c0_m1 3 1 1 1 Cr 6 O 6 C 
+CuH_c0_m1 2 1 1 1 Cu 1 H 
+VSe_c0_m4 2 1 1 1 V 1 Se 
+FeCO4CH2CH2_c0_m1 4 1 1 6 C 1 Fe 4 H 4 O 
+FeS_c0_m5 2 1 1 1 Fe 1 S 
+NiCl_c0_m2 2 1 1 1 Cl 1 Ni 
+CoCO2HPF32_c0_m1 6 1 1 2 O 2 P 2 C 1 Co 6 F 1 H 
+ScC4_c0_m2 2 1 1 4 C 1 Sc 
+FeCl3_c0_m6 2 1 1 3 Cl 1 Fe 
+Cu2_c0_m1 1 1 1 2 Cu 
+VCl_c0_m5 2 1 1 1 Cl 1 V 
+TiS_c0_m3 2 1 1 1 Ti 1 S 
+NiCO_c0_m1 3 1 1 1 C 1 Ni 1 O 
+CoCl_c0_m3 2 1 1 1 Cl 1 Co 
+NiH_c0_m2 2 1 1 1 Ni 1 H 
+CrF3_c0_m4 2 1 1 1 Cr 3 F 
+Fe2Cl6_c0_m11 2 1 1 6 Cl 2 Fe 
+NiSi_c0_m1 2 1 1 1 Ni 1 Si 
+NiO_c0_m3 2 1 1 1 O 1 Ni 
+CrO_c0_m5 2 1 1 1 Cr 1 O 
+ZnH_c0_m2 2 1 1 1 H 1 Zn 
+ScS_c0_m2 2 1 1 1 Sc 1 S 
+NiF2_c0_m3 2 1 1 2 F 1 Ni 
+ScH_c0_m1 2 1 1 1 Sc 1 H 
+ZnCl_c0_m2 2 1 1 1 Cl 1 Zn 
+ZnBr2_c0_m1 2 1 1 2 Br 1 Zn 
+CuGe_c0_m2 2 1 1 1 Cu 1 Ge 
+FeCO3_c0_m3 3 1 1 3 C 1 Fe 3 O 
+FeF3_c0_m6 2 1 1 1 Fe 3 F 
+VO_c0_m4 2 1 1 1 O 1 V 
+CrOF_c0_m2 3 1 1 1 Cr 1 F 1 O 
+Cr2_c0_m1 1 1 1 2 Cr 
+CuO_c0_m2 2 1 1 1 O 1 Cu 
+TiH_c0_m4 2 1 1 1 Ti 1 H 
+TiOCl2_c0_m1 3 1 1 1 Ti 1 O 2 Cl 
+CrO2_c0_m3 2 1 1 1 Cr 2 O 
+ScC2_c0_m2 2 1 1 2 C 1 Sc 
+NiCl2_c0_m3 2 1 1 2 Cl 1 Ni 
+MnBr_c0_m7 2 1 1 1 Br 1 Mn 
+CrBr_c0_m6 2 1 1 1 Cr 1 Br 
+MnCO5Cl_c0_m1 4 1 1 1 Cl 5 C 5 O 1 Mn 
+FeCO4_c0_m3 3 1 1 4 C 1 Fe 4 O 
+CrCu_c0_m6 2 1 1 1 Cr 1 Cu 
+Cr2Cl4_c0_m9 2 1 1 4 Cl 2 Cr 
+VC2_c0_m4 2 1 1 2 C 1 V 
+CoCO4H_c0_m1 4 1 1 1 Co 1 H 4 O 4 C 
+TiClBr3_c0_m1 3 1 1 1 Ti 1 Cl 3 Br 
+Mn2Cl4_c0_m11 2 1 1 4 Cl 2 Mn 
+FeCO4H2_c0_m1 4 1 1 4 C 1 Fe 2 H 4 O 
+ZnCH32_c0_m1 3 1 1 2 C 6 H 1 Zn 
+NiGe_c0_m1 2 1 1 1 Ni 1 Ge 
+TiCl3Br_c0_m1 3 1 1 3 Cl 1 Ti 1 Br 
+Ti2Cl6_c0_m1 2 1 1 2 Ti 6 Cl 
+CoBr2_c0_m4 2 1 1 1 Co 2 Br 
+CrCO3_c0_m1 3 1 1 1 Cr 3 O 3 C 
+TiCl_c0_m4 2 1 1 1 Ti 1 Cl 
+CrOH_c0_m6 3 1 1 1 Cr 1 H 1 O 
+TiO2_c0_m1 2 1 1 1 Ti 2 O 
+CrBr2_c0_m5 2 1 1 1 Cr 2 Br 
+ZnCl2_c0_m1 2 1 1 2 Cl 1 Zn 
+Cu3Cl3_c0_m1 2 1 1 3 Cl 3 Cu 
+CrCl2_c0_m5 2 1 1 2 Cl 1 Cr 
+CoSi_c0_m2 2 1 1 1 Co 1 Si 
+ScSe_c0_m2 2 1 1 1 Sc 1 Se 
+ZnO_c0_m1 2 1 1 1 O 1 Zn 
+Fe2F6_c0_m7 2 1 1 2 Fe 6 F 
+CrO2OH2_c0_m1 3 1 1 4 O 2 H 1 Cr 
+TiOF2_c0_m1 3 1 1 1 Ti 1 O 2 F 
+TiOCl_c0_m2 3 1 1 1 Ti 1 O 1 Cl 
+MnF_c0_m7 2 1 1 1 F 1 Mn 
+Fe2Cl4_c0_m9 2 1 1 4 Cl 2 Fe 
+FeBr2_c0_m5 2 1 1 1 Fe 2 Br 
+VBrCl3_c0_m2 3 1 1 3 Cl 1 V 1 Br 
+CrCl_c0_m6 2 1 1 1 Cl 1 Cr 
+TiC5H5Cl3_c0_m1 4 1 1 1 Ti 5 C 3 Cl 5 H 
+CrOF2_c0_m1 3 1 1 1 Cr 2 F 1 O 
+TiCl3_c0_m2 2 1 1 1 Ti 3 Cl 
+FeF2_c0_m5 2 1 1 1 Fe 2 F 
+FeO_c0_m5 2 1 1 1 O 1 Fe 
+VH_c0_m5 2 1 1 1 V 1 H 
+ScF3_c0_m1 2 1 1 3 F 1 Sc 
+CuCl_c0_m1 2 1 1 1 Cl 1 Cu 

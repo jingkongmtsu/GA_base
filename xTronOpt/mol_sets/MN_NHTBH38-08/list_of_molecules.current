@@ -1,0 +1,67 @@
+HCl_c0_m1 0  
+CH3_c0_m2 0  
+C2H4_c0_m1 0  
+CH3Cl_c0_m1 0  
+FCl_c0_m1 0  
+CH3F_c0_m1 0  
+HCN_c0_m1 0
+HNC_c0_m1 0  
+N2_c0_m1 0  
+F_c-1_m1 0  
+CH3CH2_c0_m2 0  
+Cl_c-1_m1 0  
+CH3OH_c0_m1 0  
+CO_c0_m1 0  
+FH_c0_m1 0  
+OH_c0_m2 0  
+N2O_c0_m1 0  
+F2_c0_m1 0  
+OH_c-1_m1 0  
+FCH3Clcomp1_c-1_m1 0
+FCH3Clcomp2_c-1_m1 0  
+HOCH3Fcomp1_c-1_m1 0  
+HOCH3Fcomp2_c-1_m1 0
+F2CH3_c-1_m1 0  
+Cl2CH3_c-1_m1 0  
+CH3CH2CH2_c0_m2 0  
+HN2_c0_m2 0  
+HCO_c0_m2 0  
+HOCH3_c0_m1 0  
+HN2Ots_c0_m2 2 1 1 1 H 1 N2O_c0_m1  
+H2Fts_c0_m2 2 1 1 1 H 1 FH_c0_m1  
+H2Clts_c0_m2 2 1 1 1 H 1 HCl_c0_m1  
+CH4Fts_c0_m2 2 1 1 1 H 1 CH3F_c0_m1  
+F2Hts_c0_m2 2 1 1 1 H 1 F2_c0_m1  
+FClCH3ts_c0_m2 2 1 1 1 FCl_c0_m1 1 CH3_c0_m2  
+CH3F2ts_c-1_m1 2 1 1 1 F_c-1_m1 1 CH3F_c0_m1  
+F2CH3ts_c-1_m1 1 1 1 1 F2CH3_c-1_m1  
+CH3Cl2ts_c-1_m1 2 1 1 1 CH3Cl_c0_m1 1 Cl_c-1_m1  
+Cl2CH3ts_c-1_m1 1 1 1 1 Cl2CH3_c-1_m1  
+FCH3Clts_c-1_m1 2 1 1 1 CH3Cl_c0_m1 1 F_c-1_m1  
+FCH3Clcomp_ts_c-1_m1 1 1 1 1 FCH3Clcomp1_c-1_m1  
+CH3FOHts_c-1_m1 2 1 1 1 OH_c-1_m1 1 CH3F_c0_m1  
+HOCH3Fcomp_ts_c-1_m1 1 1 1 1 HOCH3Fcomp1_c-1_m1  
+N2Hts_c0_m2 2 1 1 1 H 1 N2_c0_m1  
+HCOts_c0_m2 2 1 1 1 H 1 CO_c0_m1  
+C2H5ts_c0_m2 2 1 1 1 H 1 C2H4_c0_m1  
+C3H7ts_c0_m2 2 1 1 1 CH3_c0_m2 1 C2H4_c0_m1  
+HCNts_c0_m1 1 1 1 1 HCN_c0_m1  
+HN2Ots_c0_m2_rev 2 1 1 1 OH_c0_m2 1 N2_c0_m1  
+H2Fts_c0_m2_rev 2 1 1 1 FH_c0_m1 1 H  
+H2Clts_c0_m2_rev 2 1 1 1 HCl_c0_m1 1 H  
+CH4Fts_c0_m2_rev 2 1 1 1 CH3_c0_m2 1 FH_c0_m1  
+F2Hts_c0_m2_rev 2 1 1 1 FH_c0_m1 1 F  
+FClCH3ts_c0_m2_rev 2 1 1 1 CH3F_c0_m1 1 Cl  
+CH3F2ts_c-1_m1_rev 2 1 1 1 CH3F_c0_m1 1 F_c-1_m1  
+F2CH3ts_c-1_m1_rev 1 1 1 1 F2CH3_c-1_m1  
+CH3Cl2ts_c-1_m1_rev 2 1 1 1 CH3Cl_c0_m1 1 Cl_c-1_m1  
+Cl2CH3ts_c-1_m1_rev 1 1 1 1 Cl2CH3_c-1_m1  
+FCH3Clts_c-1_m1_rev 2 1 1 1 CH3F_c0_m1 1 Cl_c-1_m1  
+FCH3Clcomp_ts_c-1_m1_rev 1 1 1 1 FCH3Clcomp2_c-1_m1  
+CH3FOHts_c-1_m1_rev 2 1 1 1 HOCH3_c0_m1 1 F_c-1_m1  
+HOCH3Fcomp_ts_c-1_m1_rev 1 1 1 1 HOCH3Fcomp2_c-1_m1  
+N2Hts_c0_m2_rev 1 1 1 1 HN2_c0_m2  
+HCOts_c0_m2_rev 1 1 1 1 HCO_c0_m2  
+C2H5ts_c0_m2_rev 1 1 1 1 CH3CH2_c0_m2  
+C3H7ts_c0_m2_rev 1 1 1 1 CH3CH2CH2_c0_m2  
+HCNts_c0_m1_rev 1 1 1 1 HNC_c0_m1  

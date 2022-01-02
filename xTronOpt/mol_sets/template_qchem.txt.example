@@ -1,0 +1,24 @@
+$rem
+JOBTYPE   SP 
+EXCHANGE     wb97x
+CORRELATION  none
+!exchange scan 
+!correlation scan
+BASIS        G3large
+THRESH           14
+PRINT_INPUT     TRUE
+INCDFT    FALSE
+!XC_GRID          1
+SYM_IGNORE     TRUE
+SYMMETRY       FALSE
+SCF_CONVERGENCE  5
+MAX_SCF_CYCLES  100
+$end
+
+$xc_functional
+X    Becke     0.726
+X    S         0.0966
+C    PK06      1.0
+K    0.1713
+$end
+

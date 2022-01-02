@@ -1,0 +1,46 @@
+Cl2_c1_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+SH_c1_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+OH_c1_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+O2_c1_m2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+PH_c1_m2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+PH2_c1_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+S2_c1_m2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+FeC_c1_m2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+Co_c1_m3 0 xcfunc1 B3LYP xcfunc2 B3LYP
+Sc_c1_m3 0 xcfunc1 B3LYP xcfunc2 B3LYP
+C_c1_m2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+S_c1_m4 0 xcfunc1 B3LYP xcfunc2 B3LYP
+Cl_c1_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+O_c1_m2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+P_c1_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+Si_c1_m2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+Cr_c1_m6 0 xcfunc1 B3LYP xcfunc2 B3LYP
+Cu_c1_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+*Mo_c1_m6 0 xcfunc1 B3LYP xcfunc2 B3LYP
+*Pd_c1_m2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+*Rh_c1_m3 0 xcfunc1 B3LYP xcfunc2 B3LYP
+*Ru_c1_m4 0 xcfunc1 B3LYP xcfunc2 B3LYP
+Zn_c1_m2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+C_c0_m3 1 1 1 1 C_c1_m2 xcfunc1 B3LYP xcfunc2 B3LYP
+S_c0_m3 1 1 1 1 S_c1_m4 xcfunc1 B3LYP xcfunc2 B3LYP
+SH_c0_m2 1 1 1 1 SH_c1_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+Cl_c0_m2 1 1 1 1 Cl_c1_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+Cl2_c0_m1 1 1 1 1 Cl2_c1_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+OH_c0_m2 1 1 1 1 OH_c1_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+O_c0_m1 1 1 1 1 O_c1_m2 xcfunc1 B3LYP xcfunc2 B3LYP
+O2_c0_m3 1 1 1 1 O2_c1_m2 xcfunc1 B3LYP xcfunc2 B3LYP
+P_c0_m2 1 1 1 1 P_c1_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+PH_c0_m3 1 1 1 1 PH_c1_m2 xcfunc1 B3LYP xcfunc2 B3LYP
+PH2_c0_m2 1 1 1 1 PH2_c1_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+S2_c0_m3 1 1 1 1 S2_c1_m2 xcfunc1 B3LYP xcfunc2 B3LYP
+Si_c0_m3 1 1 1 1 Si_c1_m2 xcfunc1 B3LYP xcfunc2 B3LYP
+Cr_c0_m7 1 1 1 1 Cr_c1_m6 xcfunc1 B3LYP xcfunc2 B3LYP
+Cu_c0_m2 1 1 1 1 Cu_c1_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+FeC_c0_m3 1 1 1 1 FeC_c1_m2 xcfunc1 B3LYP xcfunc2 B3LYP
+*Mo_c0_m7 1 1 1 1 Mo_c1_m6 xcfunc1 B3LYP xcfunc2 B3LYP
+*Pd_c0_m1 1 1 1 1 Pd_c1_m2 xcfunc1 B3LYP xcfunc2 B3LYP
+*Rh_c0_m4 1 1 1 1 Rh_c1_m3 xcfunc1 B3LYP xcfunc2 B3LYP
+*Ru_c0_m5 1 1 1 1 Ru_c1_m4 xcfunc1 B3LYP xcfunc2 B3LYP
+Zn_c0_m1 1 1 1 1 Zn_c1_m2 xcfunc1 B3LYP xcfunc2 B3LYP
+Co_c0_m4 1 1 1 1 Co_c1_m3 xcfunc1 B3LYP xcfunc2 B3LYP
+Sc_c0_m2 1 1 1 1 Sc_c1_m3 xcfunc1 B3LYP xcfunc2 B3LYP

@@ -1,0 +1,3 @@
+*.in contain the geometries converted from gaussian inputs.
+formulas.pl generates the ref_vals and list_of_molecules.  Search for 'jk' to
+see the writing statements.

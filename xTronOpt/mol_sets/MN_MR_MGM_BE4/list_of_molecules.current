@@ -1,0 +1,7 @@
+O_c-1_m2 0  
+*Li_c-1_m1 0  
+K_c-1_m1 0  
+CaO_c0_m1 2 1 1 1 Ca 1 O  
+LiO_c-1_m1 2 1 1 1 Li 1 O_c-1_m2  
+KO_c-1_m1 2 1 1 1 K 1 O_c-1_m2  
+MgS_c0_m1 2 1 1 1 Mg 1 S  

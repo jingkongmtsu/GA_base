@@ -1,0 +1,10 @@
+%molecule
+0 1
+o
+c 1 RCO
+s 2 RCS 1 180.0
+
+RCO=1.15843204
+RCS=1.56685095
+%end
+ 

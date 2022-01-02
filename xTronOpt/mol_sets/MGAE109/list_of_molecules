@@ -1,0 +1,109 @@
+        C2H4 2 1 1 4 H 2 C
+        C3H6 2 1 1 6 H 3 C
+    CH3COCH3 3 1 1 3 C 1 O 6 H
+        H2CO 3 1 1 2 H 1 C 1 O
+    C2H5OCH3 3 1 1 8 H 3 C 1 O
+         Si2 1 1 1 2 Si
+         SiO 2 1 1 1 O 1 Si
+    C5H8_spi 2 1 1 8 H 5 C
+         BF3 2 1 1 1 B 3 F
+        C6H6 2 1 1 6 C 6 H
+     CH3COOH 3 1 1 2 O 2 C 4 H
+          H2 1 1 1 2 H
+         HCO 3 1 1 1 O 1 C 1 H
+       HCOOH 3 1 1 2 H 2 O 1 C
+        C2F4 2 1 1 2 C 4 F
+         Cl2 1 1 1 2 Cl
+      CH3CHO 3 1 1 2 C 1 O 4 H
+        SiF4 2 1 1 1 Si 4 F
+          S2 1 1 1 2 S
+          OH 2 1 1 1 O 1 H
+    CH3CHCH2 2 1 1 3 C 6 H
+      CH3NO2 4 1 1 2 O 1 C 1 N 3 H
+    C4H6_bic 2 1 1 6 H 4 C
+       C5H5N 3 1 1 5 C 5 H 1 N
+         CF4 2 1 1 4 F 1 C
+          CO 2 1 1 1 O 1 C
+        C3H8 2 1 1 3 C 8 H
+         ClF 2 1 1 1 Cl 1 F
+         CCH 2 1 1 1 H 2 C
+    C4H6_yne 2 1 1 4 C 6 H
+         PF3 2 1 1 1 P 3 F
+      NH2NH2 2 1 1 4 H 2 N
+       AlCl3 2 1 1 3 Cl 1 Al
+          N2 1 1 1 2 N
+          SC 2 1 1 1 C 1 S
+    C3H4_cyc 2 1 1 4 H 3 C
+          CN 2 1 1 1 N 1 C
+    CH3CH2OH 3 1 1 6 H 2 C 1 O
+     HCOOCH3 3 1 1 4 H 2 O 2 C
+         PH2 2 1 1 2 H 1 P
+    C4H8_cyc 2 1 1 8 H 4 C
+      C4H9_t 2 1 1 9 H 4 C
+       C4H4S 3 1 1 4 C 1 S 4 H
+         HCN 3 1 1 1 C 1 H 1 N
+         NH3 2 1 1 1 N 3 H
+       CH2OH 3 1 1 3 H 1 C 1 O
+         H2O 2 1 1 1 O 2 H
+          SO 2 1 1 1 O 1 S
+        C2H5 2 1 1 5 H 2 C
+       CH3CN 3 1 1 1 N 3 H 2 C
+          HF 2 1 1 1 F 1 H
+          NO 2 1 1 1 O 1 N
+         CH3 2 1 1 1 C 3 H
+    SiH2_3B1 2 1 1 2 H 1 Si
+       C4H4O 3 1 1 4 C 1 O 4 H
+        AlF3 2 1 1 1 Al 3 F
+         H2S 2 1 1 2 H 1 S
+          CH 2 1 1 1 C 1 H
+      HCOCOH 3 1 1 2 C 2 O 2 H
+    C3H4_pro 2 1 1 4 H 3 C
+        SiH3 2 1 1 1 Si 3 H
+     CH2_1A1 2 1 1 2 H 1 C
+       SiCl4 2 1 1 1 Si 4 Cl
+        SiH4 2 1 1 1 Si 4 H
+         NF3 2 1 1 3 F 1 N
+     CH3OCH3 3 1 1 2 C 1 O 6 H
+       CH2CO 3 1 1 1 O 2 C 2 H
+         CH4 2 1 1 4 H 1 C
+       CH3OH 3 1 1 1 O 1 C 4 H
+         SO2 2 1 1 1 S 2 O
+    C3H4_all 2 1 1 3 C 4 H
+         NH2 2 1 1 1 N 2 H
+        C2H2 2 1 1 2 C 2 H
+         HCl 2 1 1 1 H 1 Cl
+        ClF3 2 1 1 3 F 1 Cl
+        C2H6 2 1 1 2 C 6 H
+          P2 1 1 1 2 P
+          NH 2 1 1 1 N 1 H
+        BCl3 2 1 1 3 Cl 1 B
+       CF3CN 3 1 1 1 N 3 F 2 C
+        HOCl 3 1 1 1 O 1 Cl 1 H
+         ClO 2 1 1 1 O 1 Cl
+  C4H10_anti 2 1 1 10 H 4 C
+       CH3Cl 3 1 1 1 C 1 Cl 3 H
+       CH3CO 3 1 1 3 H 1 O 2 C
+       C2H5O 3 1 1 2 C 1 O 5 H
+       CHCl3 3 1 1 1 C 1 H 3 Cl
+       CH3SH 3 1 1 1 C 4 H 1 S
+   C4H10_iso 2 1 1 10 H 4 C
+          SH 2 1 1 1 S 1 H
+       C4H5N 3 1 1 1 N 5 H 4 C
+       Si2H6 2 1 1 6 H 2 Si
+        CCl4 2 1 1 4 Cl 1 C
+       C2H4O 3 1 1 4 H 2 C 1 O
+       C2Cl4 2 1 1 4 Cl 2 C
+         CO2 2 1 1 2 O 1 C
+      CH3NH2 3 1 1 5 H 1 N 1 C
+    CH3CHCH3 2 1 1 3 C 7 H
+    C4H6_cyc 2 1 1 4 C 6 H
+         PH3 2 1 1 3 H 1 P
+        CHF3 3 1 1 1 C 3 F 1 H
+    C4H8_iso 2 1 1 4 C 8 H
+        H2O2 2 1 1 2 O 2 H
+          F2 1 1 1 2 F
+    SiH2_1A1 2 1 1 2 H 1 Si
+          O2 1 1 1 2 O
+    C4H6_tra 2 1 1 4 C 6 H
+       CH2CH 2 1 1 2 C 3 H
+     CH2_3B1 2 1 1 2 H 1 C

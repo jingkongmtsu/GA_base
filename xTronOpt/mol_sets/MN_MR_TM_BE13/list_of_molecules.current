@@ -1,0 +1,16 @@
+Ni_c1_m2 0  
+CH2_c0_m1 0  
+CO_c0_m1 0  
+TiCl_c0_m4 2 1 1 1 Ti 1 Cl  
+VF5_c0_m1 2 1 1 1 V 5 F  
+CrCl_c0_m6 2 1 1 1 Cr 1 Cl  
+CrOF_c0_m4 3 1 1 1 Cr 1 O 1 F  
+FeBr2_2_c0_m9 2 1 1 2 Fe 4 Br  
+CoCO_4H_c0_m1 4 1 1 1 Co 4 C 4 O 1 H  
+NiCH2_c1_m2 2 1 1 1 Ni_c1_m2 1 CH2_c0_m1  
+FeCO_5_c0_m1 2 1 1 1 Fe 5 CO_c0_m1  
+VS_c0_m4 2 1 1 1 V 1 S  
+CuCl_c0_m1 2 1 1 1 Cu 1 Cl  
+CuH_c0_m1 2 1 1 1 Cu 1 H  
+NiCl_c0_m2 2 1 1 1 Ni 1 Cl  
+VO_c0_m4 2 1 1 1 V 1 O  

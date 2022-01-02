@@ -1,0 +1,13 @@
+E1_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+octane_a_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+methane_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+ethyne_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+ethylene_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+ethane_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+E22_c0_m1 1 1 1 1 E1_c0_m1  xcfunc1 B3LYP xcfunc2 B3LYP
+E31_c0_m1 1 1 1 1 E1_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+octane_b_c0_m1 1 1 1 1 octane_a_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+hexane_c0_m1 2 1 1 5 ethane_c0_m1 -4 methane_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+C8H18_c0_m1 2 1 1 7 ethane_c0_m1 -6 methane_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+adamantane_c0_m1 2 1 1 3 ethylene_c0_m1 2 ethyne_c0_m1  xcfunc1 B3LYP xcfunc2 B3LYP
+bicycoct_c0_m1 2 1 1 3 ethylene_c0_m1 1 ethyne_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP

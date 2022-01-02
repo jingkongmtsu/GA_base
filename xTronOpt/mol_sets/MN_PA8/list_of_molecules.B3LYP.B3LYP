@@ -1,0 +1,16 @@
+NH3_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+H2O_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+C2H2_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+SiH4_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+PH3_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+H2S_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+HCl_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+H2_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+NH3H_c1_m1 1 1 1 1 NH3_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+H2OH_c1_m1 1 1 1 1 H2O_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+C2H2H_c1_m1 1 1 1 1 C2H2_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+SiH4H_c1_m1 1 1 1 1 SiH4_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+PH3H_c1_m1 1 1 1 1 PH3_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+H2SH_c1_m1 1 1 1 1 H2S_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+HClH_c1_m1 1 1 1 1 HCl_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP
+H2H_c1_m1 1 1 1 1 H2_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP

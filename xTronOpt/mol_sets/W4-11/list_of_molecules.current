@@ -1,0 +1,156 @@
+C 0
+F 0
+Si 0
+Cl 0
+O 0
+H 0
+Be 0
+P 0
+B 0
+N 0
+S 0
+Al 0
+hnnn_c0_m1 2 1 1 3 N 1 H 
+hcnh_c0_m2 3 1 1 1 N 2 H 1 C 
+co_c0_m1 2 1 1 1 O 1 C 
+oxirane_c0_m1 3 1 1 2 C 4 H 1 O 
+so2_c0_m1 2 1 1 1 S 2 O 
+t-hooo_c0_m2 2 1 1 1 H 3 O 
+n2h_c0_m2 2 1 1 2 N 1 H 
+sio_c0_m1 2 1 1 1 Si 1 O 
+h2_c0_m1 1 1 1 2 H 
+fo2_c0_m2 2 1 1 1 F 2 O 
+nh2_c0_m2 2 1 1 1 N 2 H 
+hocl_c0_m1 3 1 1 1 Cl 1 H 1 O 
+be2_c0_m1 1 1 1 2 Be 
+allene_c0_m1 2 1 1 4 H 3 C 
+ch2nh_c0_m1 3 1 1 1 N 3 H 1 C 
+b2h6_c0_m1 2 1 1 2 B 6 H 
+nh_c0_m3 2 1 1 1 N 1 H 
+bh_c0_m1 2 1 1 1 B 1 H 
+o2_c0_m3 1 1 1 2 O 
+hoo_c0_m2 2 1 1 1 H 2 O 
+ch2f2_c0_m1 3 1 1 2 F 2 H 1 C 
+p4_c0_m1 1 1 1 4 P 
+c2h5f_c0_m1 3 1 1 5 H 1 F 2 C 
+dioxirane_c0_m1 3 1 1 2 O 2 H 1 C 
+ssh_c0_m2 2 1 1 2 S 1 H 
+ketene_c0_m1 3 1 1 1 O 2 H 2 C 
+propane_c0_m1 2 1 1 8 H 3 C 
+hof_c0_m1 3 1 1 1 F 1 H 1 O 
+ch2c_c0_m1 2 1 1 2 H 2 C 
+bn_c0_m1 2 1 1 1 N 1 B 
+no_c0_m2 2 1 1 1 N 1 O 
+*n2o_c0_m1_JLM_W4 2 1 1 2 N 1 O 
+acetaldehyde_c0_m1 3 1 1 1 O 4 H 2 C 
+cf4_c0_m1 2 1 1 4 F 1 C 
+*n2o_c0_m1_JLM_W4- 2 1 1 2 N 1 O 
+hs_c0_m2 2 1 1 1 S 1 H 
+nccn_c0_m1 2 1 1 2 N 2 C 
+hooh_c0_m1 2 1 1 2 H 2 O 
+hcno_c0_m1 4 1 1 1 N 1 O 1 H 1 C 
+bf3_c0_m1 2 1 1 1 B 3 F 
+ch_c0_m2 2 1 1 1 H 1 C 
+ch2-trip_c0_m3 2 1 1 2 H 1 C 
+ch3nh_c0_m2 3 1 1 1 N 4 H 1 C 
+*nccn_c0_m1_JLM_W4 2 1 1 2 N 2 C 
+bef2_c0_m1 2 1 1 2 F 1 Be 
+ph3_c0_m1 2 1 1 3 H 1 P 
+cs2_c0_m1 2 1 1 2 S 1 C 
+f2co_c0_m1 3 1 1 1 C 2 F 1 O 
+methanol_c0_m1 3 1 1 1 O 4 H 1 C 
+glyoxal_c0_m1 3 1 1 2 O 2 H 2 C 
+alcl_c0_m1 2 1 1 1 Cl 1 Al 
+t-n2h2_c0_m1 2 1 1 2 N 2 H 
+p2_c0_m1 1 1 1 2 P 
+cn_c0_m2 2 1 1 1 N 1 C 
+ch2nh2_c0_m2 3 1 1 1 N 4 H 1 C 
+oh_c0_m2 2 1 1 1 H 1 O 
+t-hcoh_c0_m1 3 1 1 1 O 2 H 1 C 
+t-hono_c0_m1 3 1 1 1 N 1 H 2 O 
+c2h4_c0_m1 2 1 1 4 H 2 C 
+honc_c0_m1 4 1 1 1 N 1 C 1 H 1 O 
+cs_c0_m1 2 1 1 1 S 1 C 
+oclo_c0_m2 2 1 1 1 Cl 2 O 
+ch4_c0_m1 2 1 1 4 H 1 C 
+ch3nh2_c0_m1 3 1 1 1 N 5 H 1 C 
+c2h3f_c0_m1 3 1 1 1 F 3 H 2 C 
+f2o_c0_m1 2 1 1 2 F 1 O 
+of_c0_m2 2 1 1 1 F 1 O 
+cl2_c0_m1 1 1 1 2 Cl 
+sih4_c0_m1 2 1 1 1 Si 4 H 
+ccl2_c0_m1 2 1 1 2 Cl 1 C 
+nh3_c0_m1 2 1 1 1 N 3 H 
+bhf2_c0_m1 3 1 1 1 B 2 F 1 H 
+alf_c0_m1 2 1 1 1 F 1 Al 
+becl2_c0_m1 2 1 1 2 Cl 1 Be 
+foof_c0_m1 2 1 1 2 F 2 O 
+cf_c0_m2 2 1 1 1 F 1 C 
+si2h6_c0_m1 2 1 1 2 Si 6 H 
+hnco_c0_m1 4 1 1 1 N 1 O 1 H 1 C 
+cch_c0_m2 2 1 1 1 H 2 C 
+hccf_c0_m1 3 1 1 1 F 1 H 2 C 
+oxirene_c0_m1 3 1 1 1 O 2 H 2 C 
+s2o_c0_m1 2 1 1 2 S 1 O 
+bf_c0_m1 2 1 1 1 B 1 F 
+alcl3_c0_m1 2 1 1 3 Cl 1 Al 
+c-hono_c0_m1 3 1 1 1 N 1 H 2 O 
+sif4_c0_m1 2 1 1 1 Si 4 F 
+ch3_c0_m2 2 1 1 3 H 1 C 
+n2o_c0_m1 2 1 1 2 N 1 O 
+clcn_c0_m1 3 1 1 1 N 1 Cl 1 C 
+clo_c0_m2 2 1 1 1 Cl 1 O 
+cloo_c0_m2 2 1 1 1 Cl 2 O 
+ch2ch_c0_m2 2 1 1 3 H 2 C 
+formic_c0_m1 3 1 1 2 O 2 H 1 C 
+hcl_c0_m1 2 1 1 1 Cl 1 H 
+sif_c0_m2 2 1 1 1 Si 1 F 
+c-n2h2_c0_m1 2 1 1 2 N 2 H 
+hcn_c0_m1 3 1 1 1 N 1 H 1 C 
+cf2_c0_m1 2 1 1 2 F 1 C 
+s2_c0_m3 1 1 1 2 S 
+s3_c0_m1 1 1 1 3 S 
+nh2cl_c0_m1 3 1 1 1 N 1 Cl 2 H 
+c2h6_c0_m1 2 1 1 6 H 2 C 
+so_c0_m3 2 1 1 1 S 1 O 
+ethanol_c0_m1 3 1 1 2 C 6 H 1 O 
+ch2-sing_c0_m1 2 1 1 2 H 1 C 
+acetic_c0_m1 3 1 1 2 O 4 H 2 C 
+ocs_c0_m1 3 1 1 1 C 1 S 1 O 
+hocn_c0_m1 4 1 1 1 N 1 O 1 H 1 C 
+ch3f_c0_m1 3 1 1 3 H 1 F 1 C 
+*nccn_c0_m1_JLM_W4- 2 1 1 2 N 2 C 
+hno_c0_m1 3 1 1 1 N 1 H 1 O 
+c2_c0_m1 1 1 1 2 C 
+b2_c0_m3 1 1 1 2 B 
+propyne_c0_m1 2 1 1 4 H 3 C 
+fccf_c0_m1 2 1 1 2 F 2 C 
+alh3_c0_m1 2 1 1 3 H 1 Al 
+h2s_c0_m1 2 1 1 1 S 2 H 
+n2h4_c0_m1 2 1 1 2 N 4 H 
+hnc_c0_m1 3 1 1 1 N 1 H 1 C 
+bh3_c0_m1 2 1 1 1 B 3 H 
+h2co_c0_m1 3 1 1 1 C 2 H 1 O 
+c-hcoh_c0_m1 3 1 1 1 O 2 H 1 C 
+hcof_c0_m1 4 1 1 1 O 1 F 1 H 1 C 
+clf_c0_m1 2 1 1 1 Cl 1 F 
+sih_c0_m2 2 1 1 1 Si 1 H 
+hco_c0_m2 3 1 1 1 C 1 H 1 O 
+n2_c0_m1 1 1 1 2 N 
+o3_c0_m1 1 1 1 3 O 
+sih3f_c0_m1 3 1 1 1 Si 3 H 1 F 
+co2_c0_m1 2 1 1 2 O 1 C 
+alh_c0_m1 2 1 1 1 H 1 Al 
+cl2o_c0_m1 2 1 1 2 Cl 1 O 
+so3_c0_m1 2 1 1 1 S 3 O 
+no2_c0_m2 2 1 1 1 N 2 O 
+bn3pi_c0_m3 2 1 1 1 N 1 B 
+propene_c0_m1 2 1 1 6 H 3 C 
+s4-c2v_c0_m1 1 1 1 4 S 
+c-hooo_c0_m2 2 1 1 1 H 3 O 
+hf_c0_m1 2 1 1 1 H 1 F 
+alf3_c0_m1 2 1 1 3 F 1 Al 
+h2o_c0_m1 2 1 1 2 H 1 O 
+h2cn_c0_m2 3 1 1 1 N 2 H 1 C 
+c2h2_c0_m1 2 1 1 2 H 2 C 
+f2_c0_m1 1 1 1 2 F 

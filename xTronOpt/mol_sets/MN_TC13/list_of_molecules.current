@@ -1,0 +1,26 @@
+E2_c0_m1_pi2 0  
+E4_c0_m1_pi4 0  
+*E5_c0_m1_pi5 0  
+P-2_c0_m1 0  
+P-4_c0_m1 0  
+P-6_c0_m1 0  
+P-8_c0_m1 0  
+P-10_c0_m1 0  
+SB-2_c0_m1 0  
+SB-4_c0_m1 0  
+SB-6_c0_m1 0  
+SB-8_c0_m1 0  
+SB-10_c0_m1 0  
+E1_c0_m1_pi1 1 1 1 1 E2_c0_m1_pi2  
+E3_c0_m1_pi3 1 1 1 1 E4_c0_m1_pi4  
+*E6_c0_m1_pi6 1 1 1 1 E5_c0_m1_pi5  
+P-2H_c1_m1 1 1 1 1 P-2_c0_m1  
+P-4H_c1_m1 1 1 1 1 P-4_c0_m1  
+P-6H_c1_m1 1 1 1 1 P-6_c0_m1  
+P-8H_c1_m1 1 1 1 1 P-8_c0_m1  
+P-10H_c1_m1 1 1 1 1 P-10_c0_m1  
+SB-2H_c1_m1 1 1 1 1 SB-2_c0_m1  
+SB-4H_c1_m1 1 1 1 1 SB-4_c0_m1  
+SB-6H_c1_m1 1 1 1 1 SB-6_c0_m1  
+SB-8H_c1_m1 1 1 1 1 SB-8_c0_m1  
+SB-10H_c1_m1 1 1 1 1 SB-10_c0_m1  

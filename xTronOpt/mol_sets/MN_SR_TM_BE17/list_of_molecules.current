@@ -1,0 +1,19 @@
+Cr_c1_m6 0
+Cu_c1_m1 0   
+V_c1_m5 0  
+CH_2pi_c0_m2 0  
+CH2_1A1_c0_m1 0  
+CH3_c0_m2 0  
+H2O_c0_m1 0  
+CO_c0_m1 0  
+CoCl2_c0_m4 2 1 1 1 Co 2 Cl  
+CoH_c0_m3 2 1 1 1 Co 1 H  
+CrCH3_c1_m5 2 1 1 1 Cr_c1_m6 1 CH3_c0_m2  
+CrCl2_c0_m5 2 1 1 1 Cr 2 Cl  
+Cu2_c0_m1 1 1 1 2 Cu  
+CuH2O_c1_m1 2 1 1 1 Cu_c1_m1 1 H2O_c0_m1  
+FeCl2_c0_m5 2 1 1 1 Fe 2 Cl  
+FeH_c0_m4 2 1 1 1 Fe 1 H  
+MnF2_c0_m6 2 1 1 1 Mn 2 F  
+VCO_c1_m5 2 1 1 1 V_c1_m5 1 CO_c0_m1  
+FeCl_c0_m6 2 1 1 1 Fe 1 Cl  

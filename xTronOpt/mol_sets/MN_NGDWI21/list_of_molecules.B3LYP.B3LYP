@@ -1,0 +1,21 @@
+He2_c0_m1 1 1 1 2 He xcfunc1 B3LYP xcfunc2 B3LYP
+Ne2_c0_m1 1 1 1 2 Ne xcfunc1 B3LYP xcfunc2 B3LYP
+Ar2_c0_m1 1 1 1 2 Ar xcfunc1 B3LYP xcfunc2 B3LYP
+Kr2_c0_m1 1 1 1 2 Kr xcfunc1 B3LYP xcfunc2 B3LYP
+HeNe_c0_m1 2 1 1 1 He 1 Ne xcfunc1 B3LYP xcfunc2 B3LYP
+HeAr_c0_m1 2 1 1 1 He 1 Ar xcfunc1 B3LYP xcfunc2 B3LYP
+NeAr_c0_m1 2 1 1 1 Ne 1 Ar xcfunc1 B3LYP xcfunc2 B3LYP
+HeHe_L_c0_m1 1 1 1 2 He xcfunc1 B3LYP xcfunc2 B3LYP
+HeHe_R_c0_m1 1 1 1 2 He xcfunc1 B3LYP xcfunc2 B3LYP
+ArAr_L_c0_m1 1 1 1 2 Ar xcfunc1 B3LYP xcfunc2 B3LYP
+ArAr_R_c0_m1 1 1 1 2 Ar xcfunc1 B3LYP xcfunc2 B3LYP
+NeNe_L_c0_m1 1 1 1 2 Ne xcfunc1 B3LYP xcfunc2 B3LYP
+NeNe_R_c0_m1 1 1 1 2 Ne xcfunc1 B3LYP xcfunc2 B3LYP
+KrKr_L_c0_m1 1 1 1 2 Kr xcfunc1 B3LYP xcfunc2 B3LYP
+KrKr_R_c0_m1 1 1 1 2 Kr xcfunc1 B3LYP xcfunc2 B3LYP
+HeNe_L_c0_m1 2 1 1 1 He 1 Ne xcfunc1 B3LYP xcfunc2 B3LYP
+HeNe_R_c0_m1 2 1 1 1 He 1 Ne xcfunc1 B3LYP xcfunc2 B3LYP
+HeAr_L_c0_m1 2 1 1 1 He 1 Ar xcfunc1 B3LYP xcfunc2 B3LYP
+HeAr_R_c0_m1 2 1 1 1 He 1 Ar xcfunc1 B3LYP xcfunc2 B3LYP
+NeAr_L_c0_m1 2 1 1 1 Ne 1 Ar xcfunc1 B3LYP xcfunc2 B3LYP
+NeAr_R_c0_m1 2 1 1 1 Ne 1 Ar xcfunc1 B3LYP xcfunc2 B3LYP

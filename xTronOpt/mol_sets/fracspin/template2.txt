@@ -1,0 +1,29 @@
+
+%basis
+G3LARGE
+%end
+
+%xcfunc
+name  KP14
+%end
+
+%scf
+max_scf_cycles  50
+%end
+
+%gints
+gints4d_threshold  1.0E-12
+%end
+
+%xcints
+grid_points  128  302
+threshold  1.0e-12
+%end
+
+%scfintscontroller
+integral_controller_option  NO_CONTROLLER
+%end
+
+%scfconv
+scf_algorithm  diis
+%end

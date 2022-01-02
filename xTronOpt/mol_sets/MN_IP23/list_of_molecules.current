@@ -1,0 +1,46 @@
+Cl2_c1_m2 0  
+SH_c1_m1 0  
+OH_c1_m3 0  
+O2_c1_m2 0  
+PH_c1_m2 0  
+PH2_c1_m1 0  
+S2_c1_m2 0  
+FeC_c1_m2 0  
+Co_c1_m3 0  
+Sc_c1_m3 0  
+C_c1_m2 0  
+S_c1_m4 0  
+Cl_c1_m3 0  
+O_c1_m4 0  
+P_c1_m3 0  
+Si_c1_m2 0  
+Cr_c1_m6 0  
+Cu_c1_m1 0  
+*Mo_c1_m6 0  
+*Pd_c1_m2 0  
+*Rh_c1_m3 0  
+*Ru_c1_m4 0  
+Zn_c1_m2 0  
+C_c0_m3 1 1 1 1 C_c1_m2  
+S_c0_m3 1 1 1 1 S_c1_m4  
+SH_c0_m2 1 1 1 1 SH_c1_m1  
+Cl_c0_m2 1 1 1 1 Cl_c1_m3  
+Cl2_c0_m1 1 1 1 1 Cl2_c1_m2  
+OH_c0_m2 1 1 1 1 OH_c1_m3
+O_c0_m3 1 1 1 1 O_c1_m4  
+O2_c0_m3 1 1 1 1 O2_c1_m2  
+P_c0_m4 1 1 1 1 P_c1_m3  
+PH_c0_m3 1 1 1 1 PH_c1_m2  
+PH2_c0_m2 1 1 1 1 PH2_c1_m1  
+S2_c0_m3 1 1 1 1 S2_c1_m2  
+Si_c0_m3 1 1 1 1 Si_c1_m2  
+Cr_c0_m7 1 1 1 1 Cr_c1_m6  
+Cu_c0_m2 1 1 1 1 Cu_c1_m1  
+FeC_c0_m3 1 1 1 1 FeC_c1_m2  
+*Mo_c0_m7 1 1 1 1 Mo_c1_m6  
+*Pd_c0_m1 1 1 1 1 Pd_c1_m2  
+*Rh_c0_m4 1 1 1 1 Rh_c1_m3  
+*Ru_c0_m5 1 1 1 1 Ru_c1_m4  
+Zn_c0_m1 1 1 1 1 Zn_c1_m2  
+Co_c0_m4 1 1 1 1 Co_c1_m3  
+Sc_c0_m2 1 1 1 1 Sc_c1_m3  

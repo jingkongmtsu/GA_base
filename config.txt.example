@@ -1,0 +1,4 @@
+# Need to specify the path to the GA_base and the optimization scheme 
+#  you would like to use
+ga_path /home/.../GA_base
+opt_scheme xTronOpt

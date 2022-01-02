@@ -1,0 +1,28 @@
+#User inputs.
+
+#output file name
+output b05_g3l.sorted.mix
+
+#threshold for significant difference when sorting.
+diff_thresh 0.0001
+
+#common prefix of the set names. Useful because it
+#will get omitted in the output for easy read.
+scfset_common b05_allsets_g3l_
+
+#master list contains all possible molecules and can
+#contain more than in the actual lists.
+master_l b05_allsets_g3l_gdm_b3lyp_post.txt
+
+#the position of the minimum energy for a molecule.
+#the count starts from 0 at warning code.
+POS_MIN 3
+
+#the position of the sorting number for a molecule.
+#usually the diis error, which is after mininum energy.
+POS_SORT 4
+
+#set names should be the result of runnning
+#post-process.py.  All names in one line delimited by
+#space.
+scfset_names gdm_b3lyp diis_b3lyp

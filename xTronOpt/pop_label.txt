@@ -1,0 +1,1 @@
+#iterNum subIterNum para0 para1 para2 para3 polyatomics maxMol maxMolErr fullErr

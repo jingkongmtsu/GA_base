@@ -1,0 +1,16 @@
+NH3_c0_m1 0  
+H2O_c0_m1 0  
+C2H2_c0_m1 0  
+SiH4_c0_m1 0  
+PH3_c0_m1 0  
+H2S_c0_m1 0  
+HCl_c0_m1 0  
+H2_c0_m1 0  
+NH3H_c1_m1 1 1 1 1 NH3_c0_m1  
+H2OH_c1_m1 1 1 1 1 H2O_c0_m1  
+C2H2H_c1_m1 1 1 1 1 C2H2_c0_m1  
+SiH4H_c1_m1 1 1 1 1 SiH4_c0_m1  
+PH3H_c1_m1 1 1 1 1 PH3_c0_m1  
+H2SH_c1_m1 1 1 1 1 H2S_c0_m1  
+HClH_c1_m1 1 1 1 1 HCl_c0_m1  
+H2H_c1_m1 1 1 1 1 H2_c0_m1  

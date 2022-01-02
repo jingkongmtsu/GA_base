@@ -1,0 +1,94 @@
+import collections
+#
+#Must check first.  Common to all.
+#
+refs_dir = './'
+lom_fname = 'list_of_molecules.current'
+molsets_fname = 'sets_list.txt'
+fout_ext = ''
+#
+#######
+#
+#cal_dev
+#
+#Generates an error report folder.dev.format_out.fout_ext.
+#
+#Depdends on: sets_list.txt, lom, formulas.
+#
+#methods_results contains the file names of calculation results with
+#various methods (functionals, basis, etc).  The results are
+#typically the results from the post_process or min_mix. The format:
+#{'method1': 'file1', 'method2': 'file2', ...}
+#if it is empty, the file will be the output from post_process in
+#the current job dir.  this is typically the case when you want 
+#to calculate the deviations of the current job.
+#The molecule list is from lom (list_of_molecules), with entries
+#with no formulas and '*' skipped.
+#
+#methods_results = collections.OrderedDict()
+methods_results =[]
+#methods_results.append(['KP16/B13',       'kp14.w4.mix'])
+#methods_results.append(['B05',             'b05.w4.mix'])
+#methods_results.append(['B13S',             'b13s.w4.mix'])
+
+#0 : %msd, mud%, max_dev, max_mol, for mol sets; ref, and dev for molecules.
+#1 : mud for sets.
+#2 : devs for one set.
+#3 : ref, calc for one set.
+#4 : relative %msd for sets.
+format_out = 0
+
+#Position of the energy value to be used for error calcn in the *_post.txt.
+# 3 - first, 4 - last, 5 - lowest.
+POS_ENERGY = 5
+#the position for number of mols in lom
+POS_NPC = 1 
+unit_conv = 627.503  #in kcal/mol
+
+######
+#
+#min_mix: Combine multiple sets of results to produce a set of results
+#         with the lowest energy.  The output is scfset_common.mix to
+#         be used by calc_dev in methods_results[] above.  The format of
+#         the output matches that out _post.txt such that calc_dev
+#         can process both types of files. The output also contains
+#         all the comparison data.
+#
+#Depdends on: sets_list.txt, lom, formulas.
+#
+#
+POS_MIX_MIN = 3
+POS_MIX_SORT = 4
+scfset_common = 'b13s.w4.'
+scfset_names = ['b3lyp.gdm','pbe.gdm','b3lyp.diis','pbe.diis','slater.diis']
+
+######
+#
+#post_process.py : 6 diis for the last, 7 diis for the lowest, 8 stay of lowest iter
+#
+POS_SORT = 7
+
+#######
+#
+#mtag_data, mtag_check
+#
+#quantum program. Choices: 'xtron', 'gauss',
+qprog = 'xtron' 
+
+#aggregated output data file from programs. Ignored for xtron.
+qprogoutput = '' 
+
+qm_postfix = '_1'             #for xtron only so far.
+
+XCFUNC = 'KP14'
+consist_thresh = 0.0001
+diff_thresh = 0.0001
+POS_TAG = 0
+POS_FUNC = 1
+POS_ITER = 2
+POS_ITER_LOWEST = 3
+#_MTAG to avoid conflict with POS_ENERGY for caldev
+POS_ENERGY_MTAG = 4   
+POS_DIIS = 5
+#in case where no MTAG is found.
+empty_line_mtag = ['MTAG', 'XXX', '0', '0', '111', '111']

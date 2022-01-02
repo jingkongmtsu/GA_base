@@ -1,0 +1,26 @@
+C_c0_m3 0  
+S_c0_m3 0   
+SH_c0_m2 0  
+Cl_c0_m2 0  
+Cl2_c0_m1 0  
+OH_c0_m2 0  
+O_c0_m3 0  
+O2_c0_m3 0  
+P_c0_m4 0  
+PH_c0_m3 0  
+PH2_c0_m2 0  
+S2_c0_m3 0  
+Si_c0_m3 0  
+C_c-1_m4 1 1 1 1 C_c0_m3    
+S_c-1_m2 1 1 1 1 S_c0_m3  
+SH_c-1_m1 1 1 1 1 SH_c0_m2  
+Cl_c-1_m1 1 1 1 1 Cl_c0_m2  
+Cl2_c-1_m2 1 1 1 1 Cl2_c0_m1   
+OH_c-1_m1 1 1 1 1 OH_c0_m2  
+O_c-1_m2 1 1 1 1 O_c0_m3  
+O2_c-1_m2 1 1 1 1 O2_c0_m3  
+P_c-1_m3 1 1 1 1 P_c0_m4  
+PH_c-1_m2 1 1 1 1 PH_c0_m3  
+PH2_c-1_m1 1 1 1 1 PH2_c0_m2  
+S2_c-1_m2 1 1 1 1 S2_c0_m3  
+Si_c-1_m4 1 1 1 1 Si_c0_m3  

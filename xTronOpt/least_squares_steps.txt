@@ -1,0 +1,42 @@
+This document is a tutorial on how to use the least squares scripts.
+
+After running the error calculation using either err_iter.sh or calc_gen_error.pl,
+ you will find a file called all_values.txt. This text file contains the pieces of
+ all relevant values used to calculated the the matrix and vector needed for the
+ least squares fitting. Another file is called gen_stats.txt which contiains the
+ calculated MAD and SumSqs values for the generation. The first step to run the
+ least squares process is to run:
+
+1. perl lstsq_create_bA.pl IO_files/gen#/all_values#.txt
+
+This will create a file in the same directory called lstsq_Ab#.txt where the number
+ sign is the same number as the one following all_values#.txt. The next step is to
+ actually calculate the coefficients. You must use the python script which also 
+ uses numpy. So far only the workstation has a working python with numpy.
+
+2. python lstsq_fit.py IO_files/gen#/lstsq_Ab#.txt
+ (recommended: python lstsq_fit.py IO_files/gen#/lstsq_Ab#.txt > IO_files/gen#/lstsq_fitted_coeffs#.txt)
+
+This will print the fitted linear coefficients to standard output. You must store these coefficients
+ to be used in the future. I suggest using the recommended line above. Next, calculate the 
+ theoretical MAD and SumSqs values using this new set of coefficients. This is done using:
+
+3. perl lstsq_calc_theo_stats.pl IO_files/gen#/all_values#.txt IO_files/gen#/gen_stats.txt IO_files/gen#/lstsq_fitted_coeffs#.txt
+
+This will create a file in called IO_files/gen#/lstsq_stats#.txt which contains the theoretical
+ MAD and SumSqs using this new set of fitted linear coefficients.
+
+These coefficients must now be put into linear_params.txt in the xTronOpt folder to be used
+ to run the molecules and atoms over again. 
+
+4. ./run_pop.sh xTronOpt/pop.txt              # (with the new linear parameters)
+
+After these calculations are done, the previous statistics must be compared to the current statistics. 
+ To do that run:
+
+5. perl lstsq_compare_orig_to_fitted.pl IO_files/gen#/lstsq_stats#.txt IO_files/gen{#+1}/gen_stats.txt #
+
+The final number sign is which line in gen_stats.txt in the fitted coefficient results you would like to
+ compare to the original results. This will create a file in IO_files/gen{#+1}/ called compare_stats_lstsq#.txt
+ which will have all three comparisons: Original, theoretical fitted coefficient results, calculated fitted coefficient results.
+ 

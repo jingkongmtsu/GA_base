@@ -1,0 +1,48 @@
+!!! Those scripts can only be run via gxpy.sh because
+!!! gxpy sets the path to find p.py.
+run gxpy according the order.
+
+read p.py.example for explanation for those scripts.
+
+Tip 6:
+To extract b3lyp, pbe etc results as the first jobs, add '.b3lyp' to 
+fout_ext, and change xcfunc = 'B3LYP' towards the end of p.py.
+
+Tip 2:
+Use p.py.example for a single job result set (You 
+basically need to leave fout_ext and sts_results
+as empty.)
+
+Tip 1: 
+name the common part of your job first. So for
+bjpaper2, I put kp14.w4 first, then all kinds variations
+on the guess functional and scf convergence schemes.
+
+Tip 5:
+The normal procedure is to:
+1. run 'gxpy all' for a single job folder.  You don't have to 
+   run all the sets together.
+2. combine results of different convergence schemes with min_mix for
+   the same sets..
+3. run calc_dev for all the methods (functionals, ..) and sets as you desire
+   and get the results in the same table.
+
+Tip 3:
+All the jobs are listed in lom are processed. Bad ones are filled with ‘111’.  
+To remove bad molecules for statistics for a single method, add ‘*’ to 
+molecules on the top in *_post.txt, and run calc_dev.  The .log file will 
+give you the reactions that are skipped. For combined results using 
+min_mix, add '*' to .mix.
+
+Tip 4:
+There are two ways to exclude a reaction from the deviation calculations. One
+is to put '*' in the methods_results file(s) for those bad molecules.  This
+is the easy way.  This may result in conflicts because you may not have '*'
+out the same molecules for different methods. The other is to put '*' to 
+entries in lom for MN type sets or formulas for GM type since moldevs in 
+calc_dev is indexed by those entries. .log file contains skipped entries.
+
+min.py is not useful anymore.
+min_input was used by old min_mix.py(c279b4b9) and min.py.  
+Now everything uses p.py as input.
+

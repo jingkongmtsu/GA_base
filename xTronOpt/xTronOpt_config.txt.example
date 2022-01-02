@@ -1,0 +1,44 @@
+# This file is the config file for the xTronOpt directory and controls the overall options of xTronOpt.
+# The following are necessary parameters:
+#   src - where the xTron source code is located. By specifying this, the settings and exe files will
+#         be found from the overall layout of xTron. src is partly optional. If it is not set, then
+#         the settings and exe options MUST be set for a successful run.
+#   conversion_factor - conversion factor is what units to convert the final energies to on output.
+#         1.0 : hartrees (DEFAULT), 27.2113845 : eV, 627.503 : kcal/mol
+#   consistency_thres - this value is what determines if the warning code for consistency is flagged.
+#         It is based off the formula: abs(lowest_e - last_e) > consistency_thres
+#   difference_thres - this value is what dtermines if the warning code for difference is flagged.
+#         It is based off the formula: abs(lowest_e - cycle0_e) < difference_thres
+#   xcfunc1_all - the functional specified after this option will be used for the first job of all molecules
+#         and atoms. 
+#         Right now, this disables the fine control in list_of_molecules.  
+#         Fine grain control via the list_of_molecules for each set will be done later. 
+#   xcfunc2_all - the functional specified after this option will be used for the second job of all moelcules
+#         and atoms. 
+#         Right now, this disables the fine control in list_of_molecules.  
+#         Fine grain control via the list_of_molecules for each set will be done later. 
+#   lom_ext: The extension for the list_of_molecules.* to be used when 'list_of_molecules'
+#         is absent from the subset folder.  In practice, list_molecules should be absent, unless you want to
+#         run differently.  In that case, you should create 'list_of_molecules' using one of the 
+#         list_of_molecules.* as a template.  NOTE: Don't miss the '.'!
+#   xcfunc1_all: The functional for the first job.
+#   xcfunc2_all: The functional for the second job. 
+#   
+#
+
+#Do NOT use src for now.  job_setup is not getting all the info correctly.
+#src /home/jing/xTron_source/xTron.bjpaper2
+# Must specify the following.
+setting /home/jing/xTron_source/xTron.bjpaper2/setting
+exe /home/jing/xTron_build/xTron.bjpaper2/xtron.exe
+basis_data /home/jing/xTron_source/xTron.bjpaper2/basis_data
+scratch /home/jing/scratch/xtron
+
+
+conversion_factor 1.0
+consistency_thres 0.0001
+difference_thres 0.0001
+#The string replacing in job_setup.sh for the following two options do not seem to work anymore.
+xcfunc1_all B3LYP
+xcfunc2_all KP14
+lom_ext .current

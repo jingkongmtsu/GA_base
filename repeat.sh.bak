@@ -1,0 +1,21 @@
+#!/bin/bash
+# A run script to run multiple generations all at once
+
+num_gens=10
+pop_size=200
+
+start_date=$(date)
+for (( i=0; i<$num_gens; i++))
+do
+	echo " "
+	start_gen_date=$(date)
+	perl gen_new_pop.pl $pop_size parameters.txt pop.txt pop_all_sorted.txt
+	./run_pop.sh pop.txt
+	./err_calc.sh
+	rm -r scratch
+	end_gen_date=$(date)
+	echo "Generation: Start $start_gen_date , End $end_gen_date\n"
+done
+end_date=$(date)
+echo "Finished $num_gens generations of $pop_size parameters per generation"
+echo -e "Start $start_date , End $end_date\n\n"

@@ -1,0 +1,211 @@
+C 0
+F 0
+Si 0
+Cl 0
+O 0
+H 0
+P 0
+B 0
+N 0
+S 0
+Al 0
+hnnn_c0_m1 2 1 1 1 H 3 N 
+c2cl4_c0_m1 2 1 1 2 C 4 Cl 
+ch3ph2_c0_m1 3 1 1 1 C 5 H 1 P 
+hcnh_c0_m2 3 1 1 1 C 2 H 1 N 
+co_c0_m1 2 1 1 1 C 1 O 
+oxirane_c0_m1 3 1 1 2 C 4 H 1 O 
+so2_c0_m1 2 1 1 1 S 2 O 
+t-hooo_c0_m2 2 1 1 1 H 3 O 
+n2h_c0_m2 2 1 1 1 H 2 N 
+sio_c0_m1 2 1 1 1 Si 1 O 
+h2_c0_m1 1 1 1 2 H 
+fo2_c0_m2 2 1 1 1 F 2 O 
+nh2_c0_m2 2 1 1 2 H 1 N 
+cloocl_c0_m1 2 1 1 2 Cl 2 O 
+hocl_c0_m1 3 1 1 1 Cl 1 H 1 O 
+n-pentane_c0_m1 2 1 1 5 C 12 H 
+c2clh5_c0_m1 3 1 1 1 Cl 2 C 5 H 
+allene_c0_m1 2 1 1 3 C 4 H 
+oxadiazole_c0_m1 4 1 1 2 C 2 H 2 N 1 O 
+ch2nh_c0_m1 3 1 1 1 C 3 H 1 N 
+b2h6_c0_m1 2 1 1 2 B 6 H 
+nh_c0_m3 2 1 1 1 H 1 N 
+hoclo2_c0_m1 3 1 1 1 Cl 1 H 3 O 
+cyclopentadiene_c0_m1 2 1 1 5 C 6 H 
+h2ccn_c0_m2 3 1 1 2 C 2 H 1 N 
+clf3_c0_m1 2 1 1 1 Cl 3 F 
+bh_c0_m1 2 1 1 1 B 1 H 
+o2_c0_m3 1 1 1 2 O 
+hoo_c0_m2 2 1 1 1 H 2 O 
+ch2f2_c0_m1 3 1 1 1 C 2 F 2 H 
+p4_c0_m1 1 1 1 4 P 
+c2h5f_c0_m1 3 1 1 2 C 1 F 5 H 
+dioxirane_c0_m1 3 1 1 1 C 2 H 2 O 
+cyclopropyl_c0_m2 2 1 1 3 C 5 H 
+fno_c0_m1 3 1 1 1 F 1 N 1 O 
+ssh_c0_m2 2 1 1 2 S 1 H 
+borole_c0_m1 3 1 1 4 C 1 B 5 H 
+pyrrole_c0_m1 3 1 1 4 C 5 H 1 N 
+ketene_c0_m1 3 1 1 2 C 2 H 1 O 
+hclo4_c0_m1 3 1 1 1 Cl 1 H 4 O 
+propane_c0_m1 2 1 1 3 C 8 H 
+hof_c0_m1 3 1 1 1 F 1 H 1 O 
+ch2c_c0_m1 2 1 1 2 C 2 H 
+bn_c0_m1 2 1 1 1 B 1 N 
+cyclopropene_c0_m1 2 1 1 3 C 4 H 
+no_c0_m2 2 1 1 1 N 1 O 
+pf3_c0_m1 2 1 1 3 F 1 P 
+nh2oh_c0_m1 3 1 1 3 H 1 N 1 O 
+acetaldehyde_c0_m1 3 1 1 2 C 4 H 1 O 
+cf4_c0_m1 2 1 1 1 C 4 F 
+h2no_c0_m2 3 1 1 2 H 1 N 1 O 
+hs_c0_m2 2 1 1 1 S 1 H 
+nccn_c0_m1 2 1 1 2 C 2 N 
+pf5_c0_m1 2 1 1 5 F 1 P 
+cclh3_c0_m1 3 1 1 1 Cl 1 C 3 H 
+hooh_c0_m1 2 1 1 2 H 2 O 
+hcno_c0_m1 4 1 1 1 C 1 H 1 N 1 O 
+cyclobutadiene_c0_m1 2 1 1 4 C 4 H 
+bf3_c0_m1 2 1 1 3 F 1 B 
+ch_c0_m2 2 1 1 1 C 1 H 
+ch2-trip_c0_m3 2 1 1 1 C 2 H 
+ch3nh_c0_m2 3 1 1 1 C 4 H 1 N 
+formamide_c0_m1 4 1 1 1 C 3 H 1 N 1 O 
+c2clh_c0_m1 3 1 1 1 Cl 2 C 1 H 
+ph3_c0_m1 2 1 1 3 H 1 P 
+cs2_c0_m1 2 1 1 1 C 2 S 
+f2co_c0_m1 3 1 1 1 C 2 F 1 O 
+ccl3h_c0_m1 3 1 1 1 C 3 Cl 1 H 
+methanol_c0_m1 3 1 1 1 C 4 H 1 O 
+glyoxal_c0_m1 3 1 1 2 C 2 H 2 O 
+alcl_c0_m1 2 1 1 1 Cl 1 Al 
+t-n2h2_c0_m1 2 1 1 2 H 2 N 
+p2_c0_m1 1 1 1 2 P 
+cn_c0_m2 2 1 1 1 C 1 N 
+clo3_c0_m2 2 1 1 1 Cl 3 O 
+ch2nh2_c0_m2 3 1 1 1 C 4 H 1 N 
+t-butadiene_c0_m1 2 1 1 4 C 6 H 
+oh_c0_m2 2 1 1 1 H 1 O 
+t-hcoh_c0_m1 3 1 1 1 C 2 H 1 O 
+t-hono_c0_m1 3 1 1 1 H 1 N 2 O 
+c2h4_c0_m1 2 1 1 2 C 4 H 
+honc_c0_m1 4 1 1 1 C 1 H 1 N 1 O 
+cs_c0_m1 2 1 1 1 C 1 S 
+oclo_c0_m2 2 1 1 1 Cl 2 O 
+thiophene_c0_m1 3 1 1 4 C 1 S 4 H 
+n2o4_c0_m1 2 1 1 2 N 4 O 
+ch4_c0_m1 2 1 1 1 C 4 H 
+ch3nh2_c0_m1 3 1 1 1 C 5 H 1 N 
+c2h3f_c0_m1 3 1 1 2 C 1 F 3 H 
+f2o_c0_m1 2 1 1 2 F 1 O 
+of_c0_m2 2 1 1 1 F 1 O 
+cl2_c0_m1 1 1 1 2 Cl 
+furan_c0_m1 3 1 1 4 C 4 H 1 O 
+sih4_c0_m1 2 1 1 1 Si 4 H 
+ccl2_c0_m1 2 1 1 1 C 2 Cl 
+nh3_c0_m1 2 1 1 3 H 1 N 
+tetrahedrane_c0_m1 2 1 1 4 C 4 H 
+bhf2_c0_m1 3 1 1 2 F 1 B 1 H 
+alf_c0_m1 2 1 1 1 F 1 Al 
+cyclopropane_c0_m1 2 1 1 3 C 6 H 
+dithiotane_c0_m1 3 1 1 2 C 2 S 4 H 
+silole_c0_m1 3 1 1 4 C 1 Si 6 H 
+foof_c0_m1 2 1 1 2 F 2 O 
+ch2clf_c0_m1 4 1 1 1 C 1 F 2 H 1 Cl 
+c2f6_c0_m1 2 1 1 2 C 6 F 
+cf_c0_m2 2 1 1 1 C 1 F 
+si2h6_c0_m1 2 1 1 2 Si 6 H 
+hnco_c0_m1 4 1 1 1 C 1 H 1 N 1 O 
+hoclo_c0_m1 3 1 1 1 Cl 1 H 2 O 
+cch_c0_m2 2 1 1 2 C 1 H 
+hccf_c0_m1 3 1 1 2 C 1 F 1 H 
+oxirene_c0_m1 3 1 1 2 C 2 H 1 O 
+s2o_c0_m1 2 1 1 2 S 1 O 
+bf_c0_m1 2 1 1 1 F 1 B 
+alcl3_c0_m1 2 1 1 3 Cl 1 Al 
+trans-c2f2cl2_c0_m1 3 1 1 2 C 2 Cl 2 F 
+c-hono_c0_m1 3 1 1 1 H 1 N 2 O 
+sif4_c0_m1 2 1 1 4 F 1 Si 
+clcof_c0_m1 4 1 1 1 C 1 F 1 Cl 1 O 
+ccl2h2_c0_m1 3 1 1 1 C 2 Cl 2 H 
+ch3_c0_m2 2 1 1 1 C 3 H 
+n2o_c0_m1 2 1 1 2 N 1 O 
+benzene_c0_m1 2 1 1 6 C 6 H 
+clcn_c0_m1 3 1 1 1 Cl 1 C 1 N 
+cf2cl2_c0_m1 3 1 1 1 C 2 Cl 2 F 
+clo_c0_m2 2 1 1 1 Cl 1 O 
+cloo_c0_m2 2 1 1 1 Cl 2 O 
+ch2ch_c0_m2 2 1 1 2 C 3 H 
+ccl4_c0_m1 2 1 1 4 Cl 1 C 
+dioxetane_c0_m1 3 1 1 2 C 4 H 2 O 
+formic_c0_m1 3 1 1 1 C 2 H 2 O 
+hcl_c0_m1 2 1 1 1 Cl 1 H 
+sif_c0_m2 2 1 1 1 F 1 Si 
+c-n2h2_c0_m1 2 1 1 2 H 2 N 
+hcn_c0_m1 3 1 1 1 C 1 H 1 N 
+cf2_c0_m1 2 1 1 1 C 2 F 
+ccl2o_c0_m1 3 1 1 1 C 2 Cl 1 O 
+s2_c0_m3 1 1 1 2 S 
+s3_c0_m1 1 1 1 3 S 
+nh2cl_c0_m1 3 1 1 1 Cl 2 H 1 N 
+c2f4_c0_m1 2 1 1 2 C 4 F 
+c2cl2_c0_m1 2 1 1 2 Cl 2 C 
+nh2f_c0_m1 3 1 1 1 F 2 H 1 N 
+cyclobutene_c0_m1 2 1 1 4 C 6 H 
+c2h6_c0_m1 2 1 1 2 C 6 H 
+allyl_c0_m2 2 1 1 3 C 5 H 
+so_c0_m3 2 1 1 1 S 1 O 
+ethanol_c0_m1 3 1 1 2 C 6 H 1 O 
+ch2-sing_c0_m1 2 1 1 1 C 2 H 
+acetic_c0_m1 3 1 1 2 C 4 H 2 O 
+ocs_c0_m1 3 1 1 1 C 1 S 1 O 
+hocn_c0_m1 4 1 1 1 C 1 H 1 N 1 O 
+chf3_c0_m1 3 1 1 1 C 3 F 1 H 
+ch3f_c0_m1 3 1 1 1 C 1 F 3 H 
+hno_c0_m1 3 1 1 1 H 1 N 1 O 
+c2_c0_m1 1 1 1 2 C 
+b2_c0_m3 1 1 1 2 B 
+propyne_c0_m1 2 1 1 3 C 4 H 
+fccf_c0_m1 2 1 1 2 C 2 F 
+alh3_c0_m1 2 1 1 1 Al 3 H 
+h2s_c0_m1 2 1 1 1 S 2 H 
+n2h4_c0_m1 2 1 1 4 H 2 N 
+c2cl6_c0_m1 2 1 1 2 C 6 Cl 
+hnc_c0_m1 3 1 1 1 C 1 H 1 N 
+bh3_c0_m1 2 1 1 1 B 3 H 
+h2co_c0_m1 3 1 1 1 C 2 H 1 O 
+c-hcoh_c0_m1 3 1 1 1 C 2 H 1 O 
+hcof_c0_m1 4 1 1 1 C 1 F 1 H 1 O 
+clf_c0_m1 2 1 1 1 Cl 1 F 
+sih_c0_m2 2 1 1 1 Si 1 H 
+n-butane_c0_m1 2 1 1 4 C 10 H 
+hco_c0_m2 3 1 1 1 C 1 H 1 O 
+n2_c0_m1 1 1 1 2 N 
+o3_c0_m1 1 1 1 3 O 
+sih3f_c0_m1 3 1 1 1 F 3 H 1 Si 
+co2_c0_m1 2 1 1 1 C 2 O 
+alh_c0_m1 2 1 1 1 Al 1 H 
+clno_c0_m1 3 1 1 1 Cl 1 N 1 O 
+cl2o_c0_m1 2 1 1 2 Cl 1 O 
+so3_c0_m1 2 1 1 1 S 3 O 
+clf5_c0_m1 2 1 1 1 Cl 5 F 
+sf6_c0_m1 2 1 1 6 F 1 S 
+formic-anhydride_c0_m1 3 1 1 2 C 2 H 3 O 
+beta-lactim_c0_m1 4 1 1 3 C 5 H 1 N 1 O 
+no2_c0_m2 2 1 1 1 N 2 O 
+bn3pi_c0_m3 2 1 1 1 B 1 N 
+propene_c0_m1 2 1 1 3 C 6 H 
+s4-c2v_c0_m1 1 1 1 4 S 
+c2clh3_c0_m1 3 1 1 2 C 1 Cl 3 H 
+c-hooo_c0_m2 2 1 1 1 H 3 O 
+hf_c0_m1 2 1 1 1 F 1 H 
+cyclobutane_c0_m1 2 1 1 4 C 8 H 
+alf3_c0_m1 2 1 1 3 F 1 Al 
+h2o_c0_m1 2 1 1 2 H 1 O 
+h2cn_c0_m2 3 1 1 1 C 2 H 1 N 
+dioxetan2one_c0_m1 3 1 1 2 C 2 H 3 O 
+cis-c2f2cl2_c0_m1 3 1 1 2 C 2 Cl 2 F 
+c2h2_c0_m1 2 1 1 2 C 2 H 
+f2_c0_m1 1 1 1 2 F 
+oxetane_c0_m1 3 1 1 3 C 6 H 1 O 

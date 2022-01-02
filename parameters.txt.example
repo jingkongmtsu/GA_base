@@ -1,0 +1,13 @@
+6
+0.1 2.0 f
+100.0 200.0 f
+0.1 2.0 f
+5.0 10.0 f
+0.1 2.0 f
+5.0 15.0 f
+
+#Format
+#First line - number of parameters
+#Minimum Maximum Type
+
+#Type can be integer or double

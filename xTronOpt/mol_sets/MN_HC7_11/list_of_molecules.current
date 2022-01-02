@@ -1,0 +1,14 @@
+E22_c0_m1 0
+E31_c0_m1 0
+octane_b_c0_m1 0  
+methane_c0_m1 0  
+ethyne_c0_m1 0  
+ethylene_c0_m1 0  
+ethane_c0_m1 0  
+E1_c0_m1 1 1 1 1 E22_c0_m1   
+E1a_c0_m1 1 1 1 1 E31_c0_m1  
+octane_a_c0_m1 1 1 1 1 octane_b_c0_m1  
+hexane_c0_m1 2 1 1 5 ethane_c0_m1 -4 methane_c0_m1  
+C8H18_c0_m1 2 1 1 7 ethane_c0_m1 -6 methane_c0_m1  
+adamantane_c0_m1 2 1 1 3 ethylene_c0_m1 2 ethyne_c0_m1   
+bicycoct_c0_m1 2 1 1 3 ethylene_c0_m1 1 ethyne_c0_m1  

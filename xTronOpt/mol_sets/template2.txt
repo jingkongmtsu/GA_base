@@ -1,0 +1,31 @@
+%basis
+G3LARGEXP
+#aug-cc-pcvqz-dale
+%end
+
+%xcfunc
+name  KP14
+%end
+
+%scf
+max_scf_cycles  150
+%end
+
+%gints
+gints4d_threshold  1.0E-12
+%end
+
+%xcints
+grid_points  128  302
+threshold  1.0e-12
+%end
+
+%scfintscontroller
+integral_controller_option  NO_CONTROLLER
+%end
+
+%scfconv
+max_iterations_energy_conv  7   # this is related to how many consecutive SCF iterations we test the GDM convergence
+threshold_energy_conv  1.0E-10     # this is the threshold of energy difference [OLD: threshold_gdm_conv].
+scf_algorithm  diis
+%end

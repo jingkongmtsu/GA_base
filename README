@@ -1,0 +1,42 @@
+This is a batch job system for running quantum chemistry calculations. Right now it runs with
+xTron (a DFT program in Kong's group), but can be easily modified for other programs.  It can be used for error
+analysis of large number of jobs with multiple datasets.  It also has a built-in GA optimizer
+for parameter optimizations.
+
+The code was mainly written by Matthew Wang, with design input from Jing Kong.  Jing Kong also wrote
+the python scripts for error analysis.
+
+This GA_base directory contains the necessary scripts to run a Genetic Algorithm optimization.
+The purpose of the following files and scripts are:
+ 1. gen_new_pop.pl - generates a new population, from scratch or using a pre-existing sorted
+     population.
+ 2. parameters.txt - the parameter specifications for gen_new_pop.pl
+ 3. run_pop.sh - The driver for running the executable to generate results.
+     It requires a job_setup.sh located in the optimization subfolder.
+ 4. err_calc.sh - The driver for running the error calculation for each generation or all
+     generations. It requires calc_gen_error.pl or other script equivalent in the optimization
+     subfolder.
+
+#### FOR USING AN EXISTING OPTIMIZATION ####
+All .example files must be copied and populated to version without .example
+ These include:
+  1. config.txt : stores configuration information on path and exectuable
+  2. parameters.txt : stores parameter range and type information for a genetic algorithm run.
+
+#### For each optimization scheme ####
+ 1. Need to create the (OPT_SCHEME)_config.txt to hold configuration information specific to that scheme.
+
+#### For parameter information ####
+ 1. Need to create a pop.txt, or file equivalent
+#### FOR xTron SPECIFICALLY ####
+ 2. Need to create a linear_params.txt file for linear parameter sets. (HAS TO BE CALLED linear_params.txt) 
+	and pop.txt holds nonlinear
+
+#### FOR CREATING A NEW OPTIMIZATION ####
+The two necessary user supplied scripts:
+ 1. job_setup.sh - Sets up necessary input files, directories, and run scripts for the job.
+     More detail is specified in run_pop.sh
+ 2. calc_gen_error.pl - calculates the errors for each parameter set in the generation.
+     More detail is specified in err_calc.sh
+
+Good luck.

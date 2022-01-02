@@ -1,0 +1,56 @@
+HCl_c0_m1 0  
+CH3_c0_m1 0  
+H2_c0_m1 0  
+NH3_c0_m1 0  
+OH_c0_m2 0  
+FH_c0_m1 0  
+C2H5_c0_m2 0  
+H2S_c0_m1 0  
+C2H6_c0_m1 0  
+CH4_c0_m1 0  
+*HCl_b_c0_m1 0  
+PH3_c0_m1 0  
+NH2_c0_m2 0  
+C5H8_c0_m1 0  
+NH_c0_m3 0  
+PH2_c0_m2 0  
+H2O_c0_m1 0  
+HS_c0_m2 0  
+H2Clts_c0_m2 2 1 1 1 H 1 HCl_c0_m1  
+OH3ts_c0_m2 2 1 1 1 OH_c0_m2 1 H2_c0_m1  
+CH5ts_c0_m2 2 1 1 1 H2_c0_m1 1 CH3_c0_m1  
+COH5ts_c0_m2 2 1 1 1 OH_c0_m2 1 CH4_c0_m1  
+H3ts_c0_m2 2 1 1 1 H 1 H2_c0_m1  
+NOH4ts_c0_m2 2 1 1 1 OH_c0_m2 1 NH3_c0_m1  
+CH4Clts_c0_m2 2 1 1 1 HCl_c0_m1 1 CH3_c0_m1  
+C2OH7ts_c0_m2 2 1 1 1 C2H6_c0_m1 1 OH_c0_m2  
+FH2ts_c0_m2 2 1 1 1 F 1 H2_c0_m1  
+CH4Ots_c0_m3 2 1 1 1 O 1 CH4_c0_m1  
+PH4ts_c0_m2 2 1 1 1 H 1 PH3_c0_m1  
+H2Ots_c0_m3 2 1 1 1 H 1 OH_c0_m2  
+H3Sts_c0_m2 2 1 1 1 H 1 H2S_c0_m1  
+HClOts_c0_m3 2 1 1 1 O 1 HCl_c0_m1  
+CH5Nts_c0_m3 2 1 1 1 CH3_c0_m1 1 NH2_c0_m2  
+C2H7Nts_c0_m3 2 1 1 1 NH2_c0_m2 1 C2H5_c0_m2  
+C2H8Nts_c0_m2 2 1 1 1 NH2_c0_m2 1 C2H6_c0_m1  
+CH6Nts_c0_m2 2 1 1 1 NH2_c0_m2 1 CH4_c0_m1  
+C5H8ts_c0_m1 1 1 1 1 C5H8_c0_m1  
+H2Clts_c0_m2_rev 2 1 1 1 H2_c0_m1 1 Cl  
+OH3ts_c0_m2_rev 2 1 1 1 H2O_c0_m1 1 H  
+CH5ts_c0_m2_rev 2 1 1 1 CH4_c0_m1 1 H  
+COH5ts_c0_m2_rev 2 1 1 1 CH3_c0_m1 1 H2O_c0_m1  
+H3ts_c0_m2_rev 2 1 1 1 H 1 H2_c0_m1  
+NOH4ts_c0_m2_rev 2 1 1 1 H2O_c0_m1 1 NH2_c0_m2  
+CH4Clts_c0_m2_rev 2 1 1 1 CH4_c0_m1 1 Cl  
+C2OH7ts_c0_m2_rev 2 1 1 1 H2O_c0_m1 1 C2H5_c0_m2  
+FH2ts_c0_m2_rev 2 1 1 1 FH_c0_m1 1 H  
+CH4Ots_c0_m3_rev 2 1 1 1 OH_c0_m2 1 CH3_c0_m1  
+PH4ts_c0_m2_rev 2 1 1 1 H2_c0_m1 1 PH2_c0_m2  
+H2Ots_c0_m3_rev 2 1 1 1 H2_c0_m1 1 O  
+H3Sts_c0_m2_rev 2 1 1 1 HS_c0_m2 1 H2_c0_m1  
+HClOts_c0_m3_rev 2 1 1 1 OH_c0_m2 1 Cl  
+CH5Nts_c0_m3_rev 2 1 1 1 CH4_c0_m1 1 NH_c0_m3  
+C2H7Nts_c0_m3_rev 2 1 1 1 C2H6_c0_m1 1 NH_c0_m3  
+C2H8Nts_c0_m2_rev 2 1 1 1 NH3_c0_m1 1 C2H5_c0_m2  
+CH6Nts_c0_m2_rev 2 1 1 1 NH3_c0_m1 1 CH3_c0_m1  
+C5H8ts_c0_m1_rev 1 1 1 1 C5H8_c0_m1  

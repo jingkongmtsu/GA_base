@@ -1,0 +1,8 @@
+As_c0_m1_isomer2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+Br_c0_m1_isomer2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+Ge_c0_m1_isomer2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+Se_c0_m1_isomer2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+As_c0_m1_isomer1 1 1 1 1 As_c0_m1_isomer2 xcfunc1 B3LYP xcfunc2 B3LYP
+Br_c0_m1_isomer1 1 1 1 1 Br_c0_m1_isomer2 xcfunc1 B3LYP xcfunc2 B3LYP
+Ge_c0_m1_isomer1 1 1 1 1 Ge_c0_m1_isomer2 xcfunc1 B3LYP xcfunc2 B3LYP
+Se_c0_m1_isomer1 1 1 1 1 Se_c0_m1_isomer2 xcfunc1 B3LYP xcfunc2 B3LYP

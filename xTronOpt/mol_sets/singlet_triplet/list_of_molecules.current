@@ -1,0 +1,8 @@
+CH2_s 0 
+NH2plus_s 0 
+PH2plus_s 0
+SiH2_s 0 
+CH2_t 3 1 1 CH2_s 	
+NH2plus_t 3 1 1 NH2plus_s 
+PH2plus_t 3 1 1 PH2plus_s 
+SiH2_t 3 1 1 SiH2_s 

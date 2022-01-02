@@ -1,0 +1,10 @@
+F_c0_m4 0 xcfunc1 B3LYP xcfunc2 B3LYP
+Ar_c0_m3 0 xcfunc1 B3LYP xcfunc2 B3LYP
+C_c1_m4 0 xcfunc1 B3LYP xcfunc2 B3LYP
+Al_c0_m4 0 xcfunc1 B3LYP xcfunc2 B3LYP
+Si_c1_m4 0 xcfunc1 B3LYP xcfunc2 B3LYP
+F_c0_m2 1 1 1 1 F_c0_m4 xcfunc1 B3LYP xcfunc2 B3LYP
+Ar_c0_m1 1 1 1 1 Ar_c0_m3 xcfunc1 B3LYP xcfunc2 B3LYP
+C_c1_m2 1 1 1 1 C_c1_m4 xcfunc1 B3LYP xcfunc2 B3LYP
+Al_c0_m2 1 1 1 1 Al_c0_m4 xcfunc1 B3LYP xcfunc2 B3LYP
+Si_c1_m2 1 1 1 1 Si_c1_m4 xcfunc1 B3LYP xcfunc2 B3LYP

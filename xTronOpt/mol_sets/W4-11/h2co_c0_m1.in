@@ -1,0 +1,12 @@
+%molecule
+0 1
+O
+C 1 RCO
+H 2 RCH 1 TH
+H 2 RCH 1 TH 3 180.0
+
+RCO=1.2066
+RCH=1.1022
+TH=121.78
+%end
+ 

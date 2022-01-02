@@ -1,0 +1,26 @@
+C_c0_m3 0 xcfunc1 B3LYP xcfunc2 B3LYP
+S_c0_m3 0  xcfunc1 B3LYP xcfunc2 B3LYP
+SH_c0_m2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+Cl_c0_m2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+Cl2_c0_m1 0 xcfunc1 B3LYP xcfunc2 B3LYP
+OH_c0_m2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+O_c0_m3 0 xcfunc1 B3LYP xcfunc2 B3LYP
+O2_c0_m3 0 xcfunc1 B3LYP xcfunc2 B3LYP
+P_c0_m4 0 xcfunc1 B3LYP xcfunc2 B3LYP
+PH_c0_m3 0 xcfunc1 B3LYP xcfunc2 B3LYP
+PH2_c0_m2 0 xcfunc1 B3LYP xcfunc2 B3LYP
+S2_c0_m3 0 xcfunc1 B3LYP xcfunc2 B3LYP
+Si_c0_m3 0 xcfunc1 B3LYP xcfunc2 B3LYP
+C_c-1_m4 1 1 1 1 C_c0_m3 xcfunc1 B3LYP xcfunc2 B3LYP  
+S_c-1_m2 1 1 1 1 S_c0_m3 xcfunc1 B3LYP xcfunc2 B3LYP
+SH_c-1_m1 1 1 1 1 SH_c0_m2 xcfunc1 B3LYP xcfunc2 B3LYP
+Cl_c-1_m1 1 1 1 1 Cl_c0_m2 xcfunc1 B3LYP xcfunc2 B3LYP
+Cl2_c-1_m2 1 1 1 1 Cl2_c0_m1 xcfunc1 B3LYP xcfunc2 B3LYP 
+OH_c-1_m1 1 1 1 1 OH_c0_m2 xcfunc1 B3LYP xcfunc2 B3LYP
+O_c-1_m2 1 1 1 1 O_c0_m3 xcfunc1 B3LYP xcfunc2 B3LYP
+O2_c-1_m2 1 1 1 1 O2_c0_m3 xcfunc1 B3LYP xcfunc2 B3LYP
+P_c-1_m3 1 1 1 1 P_c0_m4 xcfunc1 B3LYP xcfunc2 B3LYP
+PH_c-1_m2 1 1 1 1 PH_c0_m3 xcfunc1 B3LYP xcfunc2 B3LYP
+PH2_c-1_m1 1 1 1 1 PH2_c0_m2 xcfunc1 B3LYP xcfunc2 B3LYP
+S2_c-1_m2 1 1 1 1 S2_c0_m3 xcfunc1 B3LYP xcfunc2 B3LYP
+Si_c-1_m4 1 1 1 1 Si_c0_m3 xcfunc1 B3LYP xcfunc2 B3LYP

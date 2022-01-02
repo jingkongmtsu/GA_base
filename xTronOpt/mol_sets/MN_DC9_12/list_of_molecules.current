@@ -1,0 +1,15 @@
+HCN_c0_m1 0  
+BF3_c0_m1 0  
+Cl2_c0_m1 0  
+C6H6_c0_m1 0  
+O2_c0_m3 0  
+HCl_c0_m1 0  
+HCN_BF3_c0_m1 2 1 1 1 HCN_c0_m1 1 BF3_c0_m1  
+C6Cl6_c0_m1 3 1 1 6 Cl2_c0_m1 1 C6H6_c0_m1 -6 HCl_c0_m1  
+P4_c0_m1 1 1 1 4 P  
+SF6_c0_m1 2 1 1 1 S 6 F  
+PF5_c0_m1 2 1 1 1 P 5 F  
+P4O10_c0_m1 2 1 1 1 P4_c0_m1 5 O2_c0_m3  
+C6F6_c0_m1 2 1 1 6 C 6 F  
+Si4C4O12H_c0_m1 4 1 1 1 Si 4 C 4 O 12 H  
+6C4N12H_c0_m1 3 1 1 6 C 4 N 12 H  
